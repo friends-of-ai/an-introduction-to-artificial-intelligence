@@ -87,21 +87,21 @@ Was ist derzeit möglich? Was nicht?
 
 Frameworks und Tools, welche bei dem Thema künstliche Intelligenz unterstützen bzw. Technologien der KI nutzen:
 
-* [TensorFlow](https://www.tensorflow.org/) (open source machine learning framework; Google)
+* [TensorFlow](https://www.tensorflow.org/) (Open source machine learning framework; Google)
 * [Caffe](http://caffe.berkeleyvision.org) (Deep Learning Framework)
 * [Keras](https://keras.io) (Python Deep Learning library)
 * [Apache MXNet](https://mxnet.incubator.apache.org) (A flexible and efficient library for deep learning; Apache)
-* [Gluon](https://aws.amazon.com/de/blogs/aws/introducing-gluon-a-new-library-for-machine-learning-from-aws-and-microsoft) (library for machine learning; Microsoft; Amazon)
-* [PyTorch](https://pytorch.org) (deep learning framework)
-* [The Microsoft Cognitive Toolkit](https://www.microsoft.com/en-us/cognitive-toolkit) (toolkit that trains deep learning algorithms; Microsoft)
+* [Gluon](https://aws.amazon.com/de/blogs/aws/introducing-gluon-a-new-library-for-machine-learning-from-aws-and-microsoft) (Library for machine learning; Microsoft; Amazon)
+* [PyTorch](https://pytorch.org) (Deep learning framework)
+* [The Microsoft Cognitive Toolkit](https://www.microsoft.com/en-us/cognitive-toolkit) (Toolkit that trains deep learning algorithms; Microsoft)
 * [DL4J](https://deeplearning4j.org) (Deep Learning Library for the JVM)
 
 ## 5. Anwendungen
 
-* [Google Photo](https://photos.google.com) ("smarte" Bilderkennung)
-* [Google Translate](https://translate.google.com) (automatische Übersetzungen)
+* [Google Photo](https://photos.google.com) ("Smarte" Bilderkennung)
+* [Google Translate](https://translate.google.com) (Automatische Übersetzungen)
 * [Google AutoDraw](https://www.autodraw.com) (Erkennung handschriftlicher Zeichungen)
-* [Microsoft Captionbot](https://www.captionbot.ai) (automatische Bild-Objekterkennung)
+* [Microsoft Captionbot](https://www.captionbot.ai) (Automatische Bild-Objekterkennung)
 * Facebook [FBLearner Flow](https://code.facebook.com/posts/1072626246134461/introducing-fblearner-flow-facebook-s-ai-backbone/) und FBLearner Predictor (Übersetzung Posts, Klassifizierung Fotos, Auslieferung passender Werbung)
 * [IBM Watson](https://de.wikipedia.org/wiki/Watson_(K%C3%BCnstliche_Intelligenz)) (Fragenbeantwortung)
 * [Apple Core ML](https://developer.apple.com/documentation/coreml) (Gesichtserkennung)
