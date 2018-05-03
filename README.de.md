@@ -80,11 +80,21 @@ Was ist derzeit möglich? Was nicht?
 
 ## 4. Werkzeuge
 
-TODO..
+Frameworks und Tools, welche bei dem Thema künstliche Intelligenz unterstützen bzw. Technologien der KI nutzen:
+
+* TensorFlow (ehemals DistBelief; Google)
+* 
 
 ## 5. Anwendungen
 
-TODO..
+* [Google Photo](https://photos.google.com) ("smarte" Bilderkennung)
+* [Google Translate](https://translate.google.com) (automatische Übersetzungen)
+* [Google AutoDraw](https://www.autodraw.com) (Erkennung handschriftlicher Zeichungen)
+* [Microsoft Captionbot](https://www.captionbot.ai) (automatische Bild-Objekterkennung)
+* Facebook [FBLearner Flow](https://code.facebook.com/posts/1072626246134461/introducing-fblearner-flow-facebook-s-ai-backbone/) und FBLearner Predictor (Übersetzung Posts, Klassifizierung Fotos, Auslieferung passender Werbung)
+* [IBM Watson](https://de.wikipedia.org/wiki/Watson_(K%C3%BCnstliche_Intelligenz)) (Fragenbeantwortung)
+* [Apple Core ML](https://developer.apple.com/documentation/coreml) (Gesichtserkennung)
+* [Amazon DSSTNE](https://github.com/amzn/amazon-dsstne) (Alexa)
 
 ## 6. Chancen und Gefahren der künstlichen Intelligenz
 
@@ -95,6 +105,7 @@ TODO..
 ### 6.2. Gefahren
 
 * Arbeiten können durch Maschinen vollständig autonom übernommen werden: bestimmte Berufe werden überflüssig
+  * https://www.mobilegeeks.de/news/google-creatism-diese-ki-koennte-auch-foto-experten-den-job-kosten/
 * Mögliche Fehlschlüsse von Berechnungen bzw. nicht alle Berechnungen sind transparent: "Ist der Betroffene wirklich nicht kreditwürdig?"
 
 ## A. Literatur
