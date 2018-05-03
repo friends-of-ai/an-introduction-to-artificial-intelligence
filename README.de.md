@@ -44,6 +44,7 @@ Was ist derzeit möglich? Was nicht?
   * Texte (Übersetzungen, Sentimentanalysen, Emotionsanalysen, etc.)
   * Bilder (ähnliche Bilder, Objekterkennung)
   * Tonspuren (Spracherkennung)
+  * Produkte ("andere User kauften auch")
   * Auswertung anderer Analysedaten (Machinen, z.B. beim autonomen Fahren, etc.)
   
 ### (Noch) nicht möglich
