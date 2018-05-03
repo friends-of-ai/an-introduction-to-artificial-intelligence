@@ -81,6 +81,10 @@ TODO..
 
 TODO..
 
+## 6. Chancen und Gefahren der künstlichen Intelligenz
+
+TODO..
+
 ## A. Literatur
 
 * [Praxiseinstieg Deep Learning](https://www.oreilly.de/buecher/12840/9783960090540-praxiseinstieg-deep-learning.html)
