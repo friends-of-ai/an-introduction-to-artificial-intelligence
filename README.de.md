@@ -27,7 +27,7 @@ Es gibt eine Menge von Seiten und Fachliteratur, welche das Thema allumfassend g
 
 Zusammenfassend lässt sich das Thema nicht wirklich ein- bzw. abgrenzen, da sich der Begriff Intelligenz weder philosophisch noch systematischen vollständig definieren lässt. Im Allgemeinen bezeichnet die "künstliche" Intelligenz ein Teilgebiet der Informatik. Ein Teilgebiet, der den Versuch unternimmt menschenähnliche (intelligente) Entscheidungsstrukturen nachzubilden. **Anders ausgedrückt:** Man simuliert z.B. mit Hilfe des Computers durch Implementation entsprechender Algorithmen und Lösungsansätze ein Verhalten, womit vorgelegte Probleme selbstständig durch Lernen, Erkennen und Ausprobieren gelöst werden können.
 
-**Hinweis:** Nicht alle auftauchenden Themen unterhalb der künstlichen Intelligenz müssen zwangsweise mit den Begriffen der (menschlichen bzw. "echten") Intelligenz korrelieren (Stichwort: Big Data, etc.). Oft vermengen sich hier Themen so wie sich der Begriff Intelligenz auch nicht eindeutig definieren lässt.
+**Hinweis:** Nicht alle auftauchenden Themen unterhalb der künstlichen Intelligenz müssen zwangsweise mit den Begriffen der (menschlichen bzw. "echten") Intelligenz korrelieren (Stichwort: Big Data, etc.). Oft vermengen sich hier Themen beider Teilbereiche so wie sich der Begriff Intelligenz auch nicht eindeutig definieren lässt.
 
 ### 1.1 Schwache künstliche Intelligenz
 
