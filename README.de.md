@@ -14,4 +14,4 @@
 
 ## C. License
 
-This tutorial is licensed under the MIT License - see the [LICENSE](/LICENSE) file for details
+This tutorial is licensed under the MIT License - see the [LICENSE.md](/LICENSE.md) file for details
