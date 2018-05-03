@@ -61,10 +61,11 @@ Was ist derzeit möglich? Was nicht?
   * Auswertung anderer Analysedaten (Machinen, z.B. beim autonomen Fahren, etc.)
 * Ermittlung der optimalsten Lösung
   * Routenplanung (kürzester Weg von A nach B)
+  * Computerspiele (Computergegner, Schach, Brettspiel Go, etc.)
   
 ### (Noch) nicht möglich
 
-* "echte" Intelligenz
+* "echte" Intelligenz (starke künstliche Intelligenz)
   * *"Lieber Computer, bitte löse mein Ticket mit der Nummer xy!"*
 
 ## 4. Werkzeuge
