@@ -24,7 +24,7 @@ Zusammengefasst lässt sich das Thema nicht wirklich ein- bzw. abgrenzen, da sic
 
 **Zusammengefasst:** Alle heute existierenden Systeme fallen unter die Kategorie der schwachen künstlichen Intelligenz.
 
-Schwache künstliche Intelligenz ist auf die Erfüllung klar definierter Aufgaben ausgerichtet (Erkennen von Mustern definierter Aufgabenstellungen, Klassifizieren vorgegebener Objekte, etc.). Sie simulieren lediglich Intelligenz und nutzen dabei die Vorteile der Rechentechnik gegenüber dem menschlichem Gehirn: Berechnen und Probieren verschiedener Varianten in einem Bruchteil der Zeit und Ausgabe der "intelligentesten" Lösung. Sie sind jedoch nicht intelligent im übertragenen Sinne.
+Schwache künstliche Intelligenz ist auf die Erfüllung klar definierter Aufgaben ausgerichtet (Erkennen von Mustern definierter Aufgabenstellungen, Klassifizieren vorgegebener Objekte, etc.). Sie simuliert lediglich Intelligenz und nutzen dabei die Vorteile der Rechentechnik gegenüber dem menschlichem Gehirn: Berechnen und Probieren verschiedener Varianten in einem Bruchteil der Zeit und Ausgabe der "intelligentesten" Lösung. Sie sind jedoch nicht intelligent im übertragenen Sinne.
 
 ### 1.2 Starke künstliche Intelligenz
 
