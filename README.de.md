@@ -43,7 +43,7 @@ Das Ziel der starken künstlichen Intelligenz ist es Maschinen dazu zu bringen a
 
 Die Diskussionen zu diesem Thema sind zwiespältig. Sie reichen von unrealistisch bis realistisch in ein paar Jahrzehnten. Die Entwicklung neuartiger Computerarchitekturen (Quantencomputer) kann einen entscheidenden Beitrag zur Lösung dieses Ziel beitragen.
 
-## 2. Buzzwords der künstlichen Intelligenz (Unterteilung)
+## 2. Buzzwords der künstlichen Intelligenz (Unterteilung der KI)
 
 * [Machine Learning](https://de.wikipedia.org/wiki/Maschinelles_Lernen)
 * [Deep Learning](https://de.wikipedia.org/wiki/Deep_Learning)
