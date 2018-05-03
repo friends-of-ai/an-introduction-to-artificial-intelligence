@@ -82,8 +82,13 @@ Was ist derzeit möglich? Was nicht?
 
 Frameworks und Tools, welche bei dem Thema künstliche Intelligenz unterstützen bzw. Technologien der KI nutzen:
 
-* TensorFlow (ehemals DistBelief; Google)
-* 
+* [TensorFlow](https://www.tensorflow.org/) (ehemals DistBelief; Google)
+* [Caffe](http://caffe.berkeleyvision.org) (Deep Learning Framework)
+* [Keras](https://keras.io) (Python Deep Learning library)
+* [Apache MXNet](https://mxnet.incubator.apache.org) (A flexible and efficient library for deep learning)
+* [Gluon](https://aws.amazon.com/de/blogs/aws/introducing-gluon-a-new-library-for-machine-learning-from-aws-and-microsoft) (library for machine learning)
+* [PyTorch](https://pytorch.org)
+* [DL4J](https://deeplearning4j.org)
 
 ## 5. Anwendungen
 
