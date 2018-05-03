@@ -59,6 +59,8 @@ Was ist derzeit möglich? Was nicht?
   * Tonspuren (Spracherkennung, NLP)
   * Produkte ("andere User kauften auch")
   * Auswertung anderer Analysedaten (Machinen, z.B. beim autonomen Fahren, etc.)
+* Ermittlung der optimalsten Lösung
+  * Routenplanung (kürzester Weg von A nach B)
   
 ### (Noch) nicht möglich
 
