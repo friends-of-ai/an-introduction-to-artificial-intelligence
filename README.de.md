@@ -31,9 +31,13 @@ Was ist derzeit möglich? Was nicht?
 ### Möglich
 
 * Analyse riesiger Datenmengen (Big Data)
-** Trennung interessanter Daten von weniger interessanten Daten
+  * Trennung interessanter Daten von weniger interessanten Daten
 * Erkennen von Mustern
-** Bilder, Tonspuren, Analysedaten (Machinen, etc.)
+  * Bilder, Tonspuren, Analysedaten (Machinen, etc.)
+  
+### (Noch) nicht möglich
+
+* ...
 
 ## 4. Werkzeuge
 
