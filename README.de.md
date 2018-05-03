@@ -4,9 +4,10 @@
 
 **Hinweis:** Dieses Tutorial erhebt nicht den Anspruch vollständig zu sein. Vielmehr wird hier der Ansatz des schnellen Einstiegs in das Thema verbunden mit praktischen Beispielen verfolgt. Korrekturen und Erweiterungen sind willkommen.
 
-Für weitere praktische Beispiele befinden sich hier:
+Weitere praktische Beispiele befinden sich hier:
 
 * https://github.com/friends-of-ai/solve-problems-by-searching
+* ...
 
 <!-- 
 ## 0. Inhalte
