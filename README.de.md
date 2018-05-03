@@ -26,7 +26,14 @@ Zusammengefasst lässt sich das Thema nicht wirklich abgrenzen, da der Begriff I
 
 ## 3. Verwendungszweck
 
-TODO..
+Was ist derzeit möglich? Was nicht?
+
+### Möglich
+
+* Analyse riesiger Datenmengen (Big Data)
+** Trennung interessanter Daten von weniger interessanten Daten
+* Erkennen von Mustern
+** Bilder, Tonspuren, Analysedaten (Machinen, etc.)
 
 ## 4. Werkzeuge
 
