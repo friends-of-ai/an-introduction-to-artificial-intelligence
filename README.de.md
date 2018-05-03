@@ -4,7 +4,11 @@
 
 ## 0. Inhalte
 
-
+* 1. Was ist künstliche Intelligenz?
+* 2. Unterteilung künstliche Intelligenz
+* 3. Verwendungszweck
+* 4. Werkzeuge
+* 5. Anwendungen
 
 ## 1. Was ist künstliche Intelligenz?
 
@@ -18,9 +22,9 @@
 
 ## A. Literatur
 
-+ [Praxiseinstieg Deep Learning](https://www.oreilly.de/buecher/12840/9783960090540-praxiseinstieg-deep-learning.html)
-+ [Machine Learning – kurz & gut](https://www.oreilly.de/buecher/12870/9783960090526-machine-learning-%E2%80%93-kurz-%26-gut.html)
-+ [Neuronale Netze selbst programmieren](https://www.oreilly.de/buecher/12892/9783960090434-neuronale-netze-selbst-programmieren.html)
+* [Praxiseinstieg Deep Learning](https://www.oreilly.de/buecher/12840/9783960090540-praxiseinstieg-deep-learning.html)
+* [Machine Learning – kurz & gut](https://www.oreilly.de/buecher/12870/9783960090526-machine-learning-%E2%80%93-kurz-%26-gut.html)
+* [Neuronale Netze selbst programmieren](https://www.oreilly.de/buecher/12892/9783960090434-neuronale-netze-selbst-programmieren.html)
 
 ## B. Authors
 
