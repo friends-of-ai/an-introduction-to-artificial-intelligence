@@ -82,6 +82,7 @@ Was ist derzeit möglich? Was nicht?
 
 * "echte" Intelligenz (starke künstliche Intelligenz)
   * *"Lieber Computer, bitte löse mein Ticket mit der Nummer xy!"*
+  * *"Computer! Ich habe all meine Dokumente in der Cloud hochgeladen. Zugangsdaten findest du in meinem Postfach. Bitte erledige nun meine Steuererklärung!"*
 
 ## 4. Werkzeuge
 
