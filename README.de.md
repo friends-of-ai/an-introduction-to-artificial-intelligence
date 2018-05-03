@@ -20,11 +20,13 @@ Zusammengefasst lässt sich das Thema nicht wirklich ein- bzw. abgrenzen, da sic
 
 **Hinweis:** Nicht alle auftauchenden Themen unterhalb der künstlichen Intelligenz müssen zwangsweise mit den Begriffen der (menschlichen bzw. "echten") Intelligenz korrelieren (Stichwort: Big Data, etc.). Oft vermengen sich hier Themen so wie sich der Begriff Intelligenz auch nicht eindeutig definieren lässt.
 
-### 1.1 Starke künstliche Intelligenz
+### 1.1 Schwache künstliche Intelligenz
 
-TODO..
+**Zusammengefasst:** Alle heute existierenden Systeme fallen unter die Kategorie der schwachen künstlichen Intelligenz.
 
-### 1.2 Schwache künstliche Intelligenz
+Schwache künstliche Intelligenz ist auf die Erfüllung klar definierter Aufgaben ausgerichtet (Erkennen von Mustern definierter Aufgabenstellungen, Klassifizieren vorgegebener Objekte, etc.). Sie simulieren lediglich Intelligenz und nutzen dabei die Vorteile der Rechentechnik gegenüber dem menschlichem Gehirn: Berechnen und Probieren verschiedener Varianten und Ausgabe der "intelligentesten" Lösung. Sie sind jedoch nicht intelligent im übertragenen Sinne.
+
+### 1.2 Starke künstliche Intelligenz
 
 TODO..
 
@@ -60,7 +62,8 @@ Was ist derzeit möglich? Was nicht?
   
 ### (Noch) nicht möglich
 
-* ...
+* "echte" Intelligenz
+  * *"Lieber Computer, bitte löse mein Ticket mit der Nummer xy!"*
 
 ## 4. Werkzeuge
 
