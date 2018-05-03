@@ -16,7 +16,10 @@ TODO..
 
 ## 2. Unterteilung künstliche Intelligenz
 
-TODO..
+* Machine Learning
+* Natural Language Processing (NLP)
+* Deep Learning
+* neuronale Netze
 
 ## 3. Verwendungszweck
 
