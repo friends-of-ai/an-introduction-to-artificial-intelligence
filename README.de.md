@@ -14,7 +14,7 @@
 
 Es gibt eine Menge von Seiten, welche das Thema allumfassend gut erklären und erläutern. Allen voran der Eintrag in der Wikipedia: [Künstliche Intelligenz](https://de.wikipedia.org/wiki/K%C3%BCnstliche_Intelligenz)
 
-Zusammengefasst lässt sich das Thema nicht wirklich abgrenzen, da der Begriff Intelligenz sich weder philosophisch noch systematischen vollständig definieren lässt. Im Allgemeinen bezeichnet die künstliche Intelligenz ein Teilgebiet der Informatik, der den Versuch unternimmt menschenähnliche (intelligente) Entscheidungsstrukturen nachzubilden. Anders ausgedrückt: Man simuliert z.B. mit Hilfe des Computers durch Implementation entsprechender Algorithmen und Lösungsansätze ein Verhalten, welches ihm vorgelegte Probleme selbstständig durch Lernen und Erkennen lösen kann.
+Zusammengefasst lässt sich das Thema nicht wirklich abgrenzen, da der Begriff Intelligenz sich weder philosophisch noch systematischen vollständig definieren lässt. Im Allgemeinen bezeichnet die künstliche Intelligenz ein Teilgebiet der Informatik. Ein Teilgebiet der den Versuch unternimmt menschenähnliche (intelligente) Entscheidungsstrukturen nachzubilden. Anders ausgedrückt: Man simuliert z.B. mit Hilfe des Computers durch Implementation entsprechender Algorithmen und Lösungsansätze ein Verhalten, womit vorgelegte Probleme selbstständig durch Lernen und Erkennen gelöst werden können.
 
 ## 2. Unterteilung künstliche Intelligenz (Buzzwords)
 
