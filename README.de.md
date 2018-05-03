@@ -14,12 +14,13 @@
 
 TODO..
 
-## 2. Unterteilung künstliche Intelligenz
+## 2. Unterteilung künstliche Intelligenz (Buzzwords)
 
 * Machine Learning
 * Natural Language Processing (NLP)
 * Deep Learning
 * neuronale Netze
+* Robotik
 
 ## 3. Verwendungszweck
 
