@@ -31,6 +31,7 @@ Ferner:
 * [Big Data](https://de.wikipedia.org/wiki/Big_Data)
 * [Suchverfahren](https://de.wikipedia.org/wiki/Suchverfahren)
 * [Mustererkennung](https://de.wikipedia.org/wiki/Mustererkennung)
+* [Lernen](https://de.wikipedia.org/wiki/Computational_Neuroscience) (überwacht, unüberwacht, teilüberwacht, etc.)
 
 ## 3. Verwendungszweck
 
