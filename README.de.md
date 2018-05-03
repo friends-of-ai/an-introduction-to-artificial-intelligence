@@ -1,5 +1,7 @@
 # Eine Einleitung in die künstliche Intelligenz
 
+*(auch KI, artificial intelligence, AI, etc.)*
+
 **Hinweis:** Dieses Tutorial erhebt nicht den Anspruch vollständig zu sein. Vielmehr wird hier der Ansatz des schnellen Einstiegs in das Thema verbunden mit praktischen Beispielen verfolgt. Korrekturen und Erweiterungen sind willkommen.
 
 ## 0. Inhalte
@@ -17,6 +19,14 @@ Es gibt eine Menge von Seiten und Fachliteratur, welche das Thema allumfassend g
 Zusammengefasst lässt sich das Thema nicht wirklich ein- bzw. abgrenzen, da sich der Begriff Intelligenz weder philosophisch noch systematischen vollständig definieren lässt. Im Allgemeinen bezeichnet die "künstliche" Intelligenz ein Teilgebiet der Informatik. Ein Teilgebiet, der den Versuch unternimmt menschenähnliche (intelligente) Entscheidungsstrukturen nachzubilden. Anders ausgedrückt: Man simuliert z.B. mit Hilfe des Computers durch Implementation entsprechender Algorithmen und Lösungsansätze ein Verhalten, womit vorgelegte Probleme selbstständig durch Lernen und Erkennen gelöst werden können.
 
 **Hinweis:** Nicht alle auftauchenden Themen unterhalb der künstlichen Intelligenz müssen zwangsweise mit den Begriffen der (menschlichen bzw. "echten") Intelligenz korrelieren (Stichwort: Big Data, etc.). Oft vermengen sich hier Themen so wie sich der Begriff Intelligenz auch nicht eindeutig definieren lässt.
+
+### 1.1 starke KI
+
+TODO..
+
+### 1.2 schwache KI
+
+TODO..
 
 ## 2. Buzzwords der künstlichen Intelligenz (Unterteilung)
 
