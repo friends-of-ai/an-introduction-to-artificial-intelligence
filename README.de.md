@@ -4,13 +4,17 @@
 
 **Hinweis:** Dieses Tutorial erhebt nicht den Anspruch vollständig zu sein. Vielmehr wird hier der Ansatz des schnellen Einstiegs in das Thema verbunden mit praktischen Beispielen verfolgt. Korrekturen und Erweiterungen sind willkommen.
 
+<!-- 
 ## 0. Inhalte
+-->
 
+<!-- 
 * [1. Was ist künstliche Intelligenz?](#user-content-1-was-ist-künstliche-intelligenz)
 * [2. Unterteilung künstliche Intelligenz](#user-content-2-unterteilung-künstliche-intelligenz)
 * [3. Verwendungszweck](#user-content-verwendungszweck)
 * [4. Werkzeuge](#user-content-werkzeuge)
 * [5. Anwendungen](#user-content-anwendungen)
+--> 
 
 ## 1. Was ist künstliche Intelligenz?
 
