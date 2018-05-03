@@ -44,6 +44,7 @@ Ferner:
 * [Suchverfahren](https://de.wikipedia.org/wiki/Suchverfahren)
 * [Mustererkennung](https://de.wikipedia.org/wiki/Mustererkennung)
 * (maschinelles) [Lernen](https://de.wikipedia.org/wiki/Computational_Neuroscience) (überwacht, unüberwacht, teilüberwacht, etc.)
+* [Graphen-, Netzwerktheorie](https://de.wikipedia.org/wiki/Graphentheorie)
 
 ## 3. Verwendungszweck
 
