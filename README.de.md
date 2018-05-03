@@ -37,7 +37,7 @@ Schwache künstliche Intelligenz ist auf die Erfüllung klar definierter Aufgabe
 
 ### 1.2 Starke künstliche Intelligenz
 
-**Zusammengefasst:** Algorithmen der Kategorie starke künstliche Intelligenz gibt es bisher noch nicht.
+**Zusammengefasst:** Algorithmen der Kategorie "starke künstliche Intelligenz" gibt es bisher noch nicht.
 
 Das Ziel der starken künstlichen Intelligenz ist es Maschinen dazu zu bringen aus eigenem Antrieb und ohne Eingriff Probleme intelligent zu lösen. Bis heute ist es nicht gelungen derart autonome Verhaltensweisen zu implementieren. Man spricht hier von der Umsetzung deterministischer Algorithmen, welche die intellektuellen Fähigkeiten des Menschen nachahmen bzw. sogar übertreffen können.
 
