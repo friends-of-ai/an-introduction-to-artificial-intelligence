@@ -20,11 +20,11 @@ Zusammengefasst lässt sich das Thema nicht wirklich ein- bzw. abgrenzen, da sic
 
 **Hinweis:** Nicht alle auftauchenden Themen unterhalb der künstlichen Intelligenz müssen zwangsweise mit den Begriffen der (menschlichen bzw. "echten") Intelligenz korrelieren (Stichwort: Big Data, etc.). Oft vermengen sich hier Themen so wie sich der Begriff Intelligenz auch nicht eindeutig definieren lässt.
 
-### 1.1 starke KI
+### 1.1 Starke künstliche Intelligenz
 
 TODO..
 
-### 1.2 schwache KI
+### 1.2 Schwache künstliche Intelligenz
 
 TODO..
 
