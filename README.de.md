@@ -88,7 +88,14 @@ TODO..
 
 ## 6. Chancen und Gefahren der künstlichen Intelligenz
 
-TODO..
+### 6.1. Chancen
+
+* TODO..
+
+### 6.2. Gefahren
+
+* Arbeiten können durch Maschinen vollständig autonom übernommen werden: bestimmte Berufe werden überflüssig
+* Nicht alle Berechnungen sind transparent: "Ist der Betroffene wirklich nicht kreditwürdig?"
 
 ## A. Literatur
 
