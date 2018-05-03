@@ -7,7 +7,7 @@
 Weitere praktische Beispiele befinden sich hier:
 
 * https://github.com/friends-of-ai/solve-problems-by-searching
-* ...
+* Coming soon..
 
 <!-- 
 ## 0. Inhalte
