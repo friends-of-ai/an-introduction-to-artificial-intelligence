@@ -98,6 +98,8 @@ Frameworks und Tools, welche bei dem Thema künstliche Intelligenz unterstützen
 
 ## 5. Anwendungen
 
+Anwendungen, welche regen Gebrauch aus dem Gebiet der künstlichen Intelligenz machen:
+
 * [Google Photo](https://photos.google.com) ("Smarte" Bilderkennung)
 * [Google Translate](https://translate.google.com) (Automatische Übersetzungen)
 * [Google AutoDraw](https://www.autodraw.com) (Erkennung handschriftlicher Zeichungen)
