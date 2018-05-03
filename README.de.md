@@ -18,11 +18,17 @@ Zusammengefasst lässt sich das Thema nicht wirklich ein- bzw. abgrenzen, da sic
 
 ## 2. Buzzwords der künstlichen Intelligenz (Unterteilung)
 
-* Machine Learning
-* Deep Learning
-* neuronale Netze
-* Robotik
-* Natural Language Processing (NLP)
+* [Machine Learning](https://de.wikipedia.org/wiki/Maschinelles_Lernen)
+* [Deep Learning](https://de.wikipedia.org/wiki/Deep_Learning)
+* [Neuronale Netze](https://de.wikipedia.org/wiki/Neuronales_Netz)
+* [Robotik](https://de.wikipedia.org/wiki/Robotik)
+* [Natural Language Processing (NLP)](https://en.wikipedia.org/wiki/Natural-language_processing)
+
+Ferner:
+
+* [Big Data](https://de.wikipedia.org/wiki/Big_Data)
+* [Suchverfahren](https://de.wikipedia.org/wiki/Suchverfahren)
+* [Mustererkennung](https://de.wikipedia.org/wiki/Mustererkennung)
 
 ## 3. Verwendungszweck
 
