@@ -87,8 +87,9 @@ Frameworks und Tools, welche bei dem Thema künstliche Intelligenz unterstützen
 * [Keras](https://keras.io) (Python Deep Learning library)
 * [Apache MXNet](https://mxnet.incubator.apache.org) (A flexible and efficient library for deep learning)
 * [Gluon](https://aws.amazon.com/de/blogs/aws/introducing-gluon-a-new-library-for-machine-learning-from-aws-and-microsoft) (library for machine learning)
-* [PyTorch](https://pytorch.org)
-* [DL4J](https://deeplearning4j.org)
+* [PyTorch](https://pytorch.org) (deep learning framework)
+* [The Microsoft Cognitive Toolkit](https://www.microsoft.com/en-us/cognitive-toolkit) (toolkit that trains deep learning algorithms)
+* [DL4J](https://deeplearning4j.org) (Deep Learning Library for the JVM)
 
 ## 5. Anwendungen
 
