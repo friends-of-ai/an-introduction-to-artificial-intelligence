@@ -43,7 +43,7 @@ Was ist derzeit möglich? Was nicht?
 * Erkennung von Mustern
   * Texte (Übersetzungen, Sentimentanalysen, Emotionsanalysen, etc.)
   * Bilder (ähnliche Bilder, Objekterkennung)
-  * Tonspuren (Spracherkennung)
+  * Tonspuren (Spracherkennung, NLP)
   * Produkte ("andere User kauften auch")
   * Auswertung anderer Analysedaten (Machinen, z.B. beim autonomen Fahren, etc.)
   
