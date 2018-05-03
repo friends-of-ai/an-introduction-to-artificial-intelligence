@@ -59,10 +59,11 @@ Was ist derzeit möglich? Was nicht?
 * Analyse riesiger Datenmengen (Big Data)
   * Trennung interessanter Daten von weniger interessanten Daten
 * Erkennung von Mustern
-  * Texte (Übersetzungen, Sentimentanalysen, Emotionsanalysen, etc.)
+  * Texte (automatisierte Übersetzungen, Sentimentanalysen, Emotionsanalysen, etc.)
   * Bilder (ähnliche Bilder, Objekterkennung)
   * Tonspuren (Spracherkennung, NLP)
   * Produkte ("andere User kauften auch")
+  * Verhalten (Individuelle Aussteuerung von Werbung)
   * Auswertung anderer Analysedaten (Machinen, z.B. beim autonomen Fahren, etc.)
 * Ermittlung der optimalsten Lösung
   * Routenplanung (kürzester Weg von A nach B)
