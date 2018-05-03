@@ -67,7 +67,7 @@ Was ist derzeit möglich? Was nicht?
   * Bilder (ähnliche Bilder, Objekterkennung)
   * Tonspuren (Spracherkennung, NLP)
   * Produkte ("andere User kauften auch")
-  * Verhalten (Individuelle Aussteuerung von Werbung, Handlungsempfehlungen auf Basis einer Wissensdatenbank, etc.)
+  * Verhalten (Individuelle Aussteuerung von Werbung, Handlungsempfehlungen auf Basis einer Wissensdatenbank, Bonitätsberechnung der Banken, etc.)
   * Auswertung anderer Analysedaten (Machinen, z.B. beim autonomen Fahren, etc.)
 * Ermittlung der optimalsten Lösung
   * Routenplanung (kürzester Weg von A nach B)
