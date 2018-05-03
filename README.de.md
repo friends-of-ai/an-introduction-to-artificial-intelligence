@@ -19,10 +19,10 @@ Zusammengefasst lässt sich das Thema nicht wirklich abgrenzen, da der Begriff I
 ## 2. Unterteilung künstliche Intelligenz (Buzzwords)
 
 * Machine Learning
-* Natural Language Processing (NLP)
 * Deep Learning
 * neuronale Netze
 * Robotik
+* Natural Language Processing (NLP)
 
 ## 3. Verwendungszweck
 
