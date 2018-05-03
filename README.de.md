@@ -33,7 +33,10 @@ Was ist derzeit möglich? Was nicht?
 * Analyse riesiger Datenmengen (Big Data)
   * Trennung interessanter Daten von weniger interessanten Daten
 * Erkennen von Mustern
-  * Bilder, Tonspuren, Analysedaten (Machinen, etc.)
+  * Texte (Übersetzungen, Sentimentanalyse, Emotionsanalyse, ...)
+  * Bilder (ähnliche Bilder, Objekterkennung)
+  * Tonspuren (Spracherkennung)
+  * Auswertung anderer Analysedaten (Machinen, z.B. beim autonomen Fahren, etc.)
   
 ### (Noch) nicht möglich
 
