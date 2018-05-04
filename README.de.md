@@ -92,6 +92,7 @@ Frameworks und Tools, welche bei dem Thema künstliche Intelligenz unterstützen
 * [Caffe](http://caffe.berkeleyvision.org) (Deep Learning Framework)
 * [Keras](https://keras.io) (Python Deep Learning library)
 * [Apache MXNet](https://mxnet.incubator.apache.org) (A flexible and efficient library for deep learning; Apache)
+* [Apache MLlib (Spark)]https://spark.apache.org/mllib/ (Scalable machine learning library; Apache)
 * [Gluon](https://aws.amazon.com/de/blogs/aws/introducing-gluon-a-new-library-for-machine-learning-from-aws-and-microsoft) (Library for machine learning; Microsoft; Amazon)
 * [PyTorch](https://pytorch.org) (Deep learning framework)
 * [The Microsoft Cognitive Toolkit](https://www.microsoft.com/en-us/cognitive-toolkit) (Toolkit that trains deep learning algorithms; Microsoft)
