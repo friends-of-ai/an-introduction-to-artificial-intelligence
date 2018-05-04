@@ -126,8 +126,7 @@ Anwendungen, welche regen Gebrauch aus dem Gebiet der künstlichen Intelligenz m
 
 ### 6.3. Probleme
 
-* Maschinen kennen keine Ethik. Sie muss vorher implementiert werden. Affekthandlungen gibt es nicht.
-  * Wie soll die Maschine bei einem unvermeidbarem Unfall reagieren? Wie ist die Schuldfrage bei Schäden bzw. Todesfällen?
+* Maschinen kennen keine Ethik. Sie muss vorher implementiert werden. Affekthandlungen gibt es nicht. Wie soll die Maschine bei einem unvermeidbarem Unfall reagieren? Wie ist die Schuldfrage bei Schäden bzw. Todesfällen?
   * https://www.zeit.de/kultur/2017-09/kuenstliche-intelligenz-algorithmus-spam-autonomes-fahren
 
 ## A. Literatur
