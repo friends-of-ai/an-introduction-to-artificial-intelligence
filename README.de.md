@@ -4,10 +4,7 @@
 
 **Hinweis:** Dieses Tutorial erhebt nicht den Anspruch vollständig zu sein. Vielmehr wird hier der Ansatz des schnellen Einstiegs in das Thema verbunden mit praktischen Beispielen verfolgt. Korrekturen und Erweiterungen sind willkommen.
 
-Weitere praktische Beispiele befinden sich hier:
-
-* [Probleme mittels Suche lösen](https://github.com/friends-of-ai/solve-problems-by-searching)
-* Coming soon..
+Weitere praktische Beispiele befinden sich im Kapitel 
 
 <!-- 
 ## 0. Inhalte
@@ -128,8 +125,13 @@ Anwendungen, welche regen Gebrauch aus dem Gebiet der künstlichen Intelligenz m
 
 * Maschinen kennen keine Ethik. Sie muss vorher implementiert werden. Affekthandlungen gibt es nicht. Wie soll die Maschine bei einem unvermeidbarem Unfall reagieren? Wie ist die Schuldfrage bei Schäden bzw. Todesfällen?
   * https://www.zeit.de/kultur/2017-09/kuenstliche-intelligenz-algorithmus-spam-autonomes-fahren
+  
+## A. Weiterführende Tutorials
 
-## A. Literatur
+* [Probleme mittels Suche lösen](https://github.com/friends-of-ai/solve-problems-by-searching)
+* Coming soon..
+
+## B. Literatur
 
 Empfohlen für den praktischen Einsatz:
 
@@ -137,10 +139,10 @@ Empfohlen für den praktischen Einsatz:
 * [Machine Learning – kurz & gut](https://www.oreilly.de/buecher/12870/9783960090526-machine-learning-%E2%80%93-kurz-%26-gut.html)
 * [Neuronale Netze selbst programmieren](https://www.oreilly.de/buecher/12892/9783960090434-neuronale-netze-selbst-programmieren.html)
 
-## B. Authors
+## C. Authors
 
 * Björn Hempel <bjoern@hempel.li> - _Initial work_ - [https://github.com/bjoern-hempel](https://github.com/bjoern-hempel)
 
-## C. License
+## D. License
 
 This tutorial is licensed under the MIT License - see the [LICENSE.md](/LICENSE.md) file for details
