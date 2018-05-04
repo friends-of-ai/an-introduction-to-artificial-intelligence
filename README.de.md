@@ -51,6 +51,7 @@ Die Diskussionen zu diesem Thema sind zwiespältig. Sie reichen von unrealistisc
 * [Deep Learning](https://de.wikipedia.org/wiki/Deep_Learning)
   * Deep Learning ist die Königsdisziplin des maschinellen Lernens und wahrscheinlich die bedeutendste Zukunftstechnologie innerhalb des Themas "künstlicher Intelligenz"
   * Es ist ein Verfahren analog dem Machine Learning, jedoch unter Einbeziehung statistischer Methoden (in Verbindung mit neuronalen Netzen, etc.)
+  * **Anders ausgedrückt:** Machine Learning: Vorhersagen durch vordefinierte Algorithmen, Deep Learning: die entsprechenden Algorithmen werden gelernt. Vorhersagen stammen dann aus diesen automatisch gelernten Algorithmen.
 * [(Künstliche) Neuronale Netze](https://de.wikipedia.org/wiki/K%C3%BCnstliches_neuronales_Netz)
   * Sind eine Simulierung und Nachahmung neuronaler Netze nach biologischem Vorbild
   * Dieses Netz besteht z.B. aus unzähligen Neuronen
