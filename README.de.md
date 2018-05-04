@@ -111,7 +111,7 @@ Anwendungen, welche regen Gebrauch aus dem Gebiet der künstlichen Intelligenz m
 * [Apple Core ML](https://developer.apple.com/documentation/coreml) (Gesichtserkennung)
 * [Amazon DSSTNE](https://github.com/amzn/amazon-dsstne) (Alexa)
 
-## 6. Chancen und Gefahren der künstlichen Intelligenz
+## 6. Chancen, Gefahren und Probleme der künstlichen Intelligenz
 
 ### 6.1. Chancen
 
@@ -123,6 +123,12 @@ Anwendungen, welche regen Gebrauch aus dem Gebiet der künstlichen Intelligenz m
 * Arbeiten können durch Maschinen vollständig autonom übernommen werden: bestimmte Berufe werden überflüssig
   * https://www.mobilegeeks.de/news/google-creatism-diese-ki-koennte-auch-foto-experten-den-job-kosten/
 * Mögliche Fehlschlüsse von Berechnungen bzw. nicht alle Berechnungen sind transparent: "Ist der Betroffene wirklich nicht kreditwürdig?"
+
+### 6.3. Probleme
+
+* Maschinen kennen keine Ethik. Sie muss vorher implementiert werden. Affekthandlungen gibt es nicht.
+  * Wie soll die Maschine bei einem unvermeidbarem Unfall reagieren? Wie ist die Schuldfrage bei Schäden bzw. Todesfällen?
+  * https://www.zeit.de/kultur/2017-09/kuenstliche-intelligenz-algorithmus-spam-autonomes-fahren
 
 ## A. Literatur
 
