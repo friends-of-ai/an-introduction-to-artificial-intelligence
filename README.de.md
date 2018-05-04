@@ -118,6 +118,7 @@ Anwendungen, welche regen Gebrauch aus dem Gebiet der künstlichen Intelligenz m
 ### 6.2. Gefahren
 
 * Arbeiten können durch Maschinen vollständig autonom übernommen werden: bestimmte Berufe werden überflüssig
+  * [Droht mit Digitalisierung jedem zweiten Job das Aus? @ DIE WELT](https://www.welt.de/wirtschaft/webwelt/article150856398/Droht-mit-Digitalisierung-jedem-zweiten-Job-das-Aus.html)
   * [Diese KI könnte auch Foto-Experten den Job kosten @ mobilegeeks.com](https://www.mobilegeeks.de/news/google-creatism-diese-ki-koennte-auch-foto-experten-den-job-kosten)
 * Mögliche Fehlschlüsse von Berechnungen bzw. nicht alle Berechnungen sind transparent: "Ist der Betroffene wirklich nicht kreditwürdig?"
 
