@@ -47,7 +47,7 @@ Die Diskussionen zu diesem Thema sind zwiespältig. Sie reichen von unrealistisc
 * [Machine Learning](https://de.wikipedia.org/wiki/Maschinelles_Lernen)
   * Ist ein Oberbegriff für alle Verfahren des maschinellen Lernens
   * Das maschinelle Lernen bedeutet die selbständige Generierung von Erfahrungen aus Wissen bzw. schon analysierten bekannten Datensätzen
-  * **Anders ausgedrückt:** Mit dieser Methode können später Vorhersagen aus schon bekannten Analysen getroffen werden.
+  * **Anders ausgedrückt:** Mit dieser Methode können später Vorhersagen aus schon bekannten Dingen (Analysen) getroffen werden.
 * [Deep Learning](https://de.wikipedia.org/wiki/Deep_Learning)
   * Deep Learning ist die Königsdisziplin des maschinellen Lernens und wahrscheinlich die bedeutendste Zukunftstechnologie innerhalb des Themas "künstlicher Intelligenz"
   * Es ist ein Verfahren analog dem Machine Learning, jedoch unter Einbeziehung statistischer Methoden (in Verbindung mit neuronalen Netzen, etc.)
