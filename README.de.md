@@ -46,14 +46,15 @@ Die Diskussionen zu diesem Thema sind zwiespältig. Sie reichen von unrealistisc
   * Künstliche Intelligenz ist der Oberbegriff zur Beschreibung aller Forschungsfelder, die sich mit der Erbringung menschlicher Intelligenzleistungen durch Maschinen beschäftigen
 * [Machine Learning](https://de.wikipedia.org/wiki/Maschinelles_Lernen)
   * Ist ein Oberbegriff für alle Verfahren des maschinellen Lernens
-  * Es bedeutet die selbstängige Generierung von Erfahrung aus Wissen (Analyse bekannter Datensätze)
+  * Es bedeutet die selbstängige Generierung von Erfahrungen aus Wissen bzw. schon analysierten bekannten Datensätzen
 * [Deep Learning](https://de.wikipedia.org/wiki/Deep_Learning)
-  * Deep Learning ist die Königsdisziplin des maschinellen Lernens und die bedeutendste Zukunftstechnologie innerhalb der KI
-  * Es ist ein Verfahren analog dem Machine Learning unter Einbeziehung statistischer Methoden (in Verbindung mit neuronalen Netzen)
+  * Deep Learning ist die Königsdisziplin des maschinellen Lernens und wahrscheinlich die bedeutendste Zukunftstechnologie innerhalb des Themas "künstlicher Intelligenz"
+  * Es ist ein Verfahren analog dem Machine Learning, jedoch unter Einbeziehung statistischer Methoden (in Verbindung mit neuronalen Netzen, etc.)
 * [(Künstliche) Neuronale Netze](https://de.wikipedia.org/wiki/K%C3%BCnstliches_neuronales_Netz)
-  * Simulierung und Nachahmung neuronaler Netze nach biologischem Vorbild
-  * Ein einzelnes (künstliches) Neuron verarbeitet verschiedene Eingangssignale und gibt (feuert) ein Ausgangssignal nach einem vordefinierten Kriterium (Schwellenwert, etc.)
+  * Ist eine Simulierung und Nachahmung neuronaler Netze nach biologischem Vorbild (es besteht aus unzähligen Neuronen)
+  * Ein einzelnes (künstliches) Neuron verarbeitet verschiedene Eingangssignale und gibt (feuert) ein Ausgangssignal nach einem vordefinierten Kriterium (Schwellenwert, Häufigkeit, Muster, etc.)
 * [Robotik](https://de.wikipedia.org/wiki/Robotik)
+  * Die Robotik ist grob gesagt die "Hardware" der künstlichen Intelligenz
 * [Natural Language Processing (NLP)](https://en.wikipedia.org/wiki/Natural-language_processing)
   * NLP befasst sich mit der Verarbeitung sowie der Ausgabe natürlicher Sprache in geschriebener und gesprochener Form
 
