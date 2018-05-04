@@ -115,7 +115,8 @@ Anwendungen, welche regen Gebrauch aus dem Gebiet der künstlichen Intelligenz m
 
 ### 6.1. Chancen
 
-* TODO..
+* Fehlerquote durch Unachtsamkeit wird verringert (diese Fehlerart gibt es beim Computer praktisch nicht)
+  * https://www.welt.de/sonderthemen/noahberlin/article165739463/An-den-meisten-Unfaellen-sind-Menschen-schuld.html
 
 ### 6.2. Gefahren
 
