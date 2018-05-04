@@ -42,11 +42,20 @@ Die Diskussionen zu diesem Thema sind zwiespältig. Sie reichen von unrealistisc
 
 ## 2. Buzzwords der künstlichen Intelligenz (Unterteilung der KI)
 
+* [Künstliche Intelligenz](https://de.wikipedia.org/wiki/K%C3%BCnstliche_Intelligenz)
+  * Künstliche Intelligenz ist der Oberbegriff zur Beschreibung aller Forschungsfelder, die sich mit der Erbringung menschlicher Intelligenzleistungen durch Maschinen beschäftigen
 * [Machine Learning](https://de.wikipedia.org/wiki/Maschinelles_Lernen)
-* [Deep Learning](https://de.wikipedia.org/wiki/Deep_Learning) ("Königsdisziplin des maschinellen Lernens")
-* [Neuronale Netze](https://de.wikipedia.org/wiki/Neuronales_Netz)
+  * Ist ein Oberbegriff für alle Verfahren des maschinellen Lernens
+  * Es bedeutet die selbstängige Generierung von Erfahrung aus Wissen (Analyse bekannter Datensätze)
+* [Deep Learning](https://de.wikipedia.org/wiki/Deep_Learning)
+  * Deep Learning ist die Königsdisziplin des maschinellen Lernens und die bedeutendste Zukunftstechnologie innerhalb der KI
+  * Es ist ein Verfahren analog dem Machine Learning unter Einbeziehung statistischer Methoden (in Verbindung mit neuronalen Netzen)
+* [(Künstliche) Neuronale Netze](https://de.wikipedia.org/wiki/K%C3%BCnstliches_neuronales_Netz)
+  * Simulierung und Nachahmung neuronaler Netze nach biologischem Vorbild
+  * Ein einzelnes (künstliches) Neuron verarbeitet verschiedene Eingangssignale und gibt (feuert) ein Ausgangssignal nach einem vordefinierten Kriterium (Schwellenwert, etc.)
 * [Robotik](https://de.wikipedia.org/wiki/Robotik)
 * [Natural Language Processing (NLP)](https://en.wikipedia.org/wiki/Natural-language_processing)
+  * NLP befasst sich mit der Verarbeitung sowie der Ausgabe natürlicher Sprache in geschriebener und gesprochener Form
 
 Ferner:
 
