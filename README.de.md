@@ -43,7 +43,7 @@ Die Diskussionen zu diesem Thema sind zwiespältig. Sie reichen von unrealistisc
 ## 2. Buzzwords der künstlichen Intelligenz (Unterteilung der KI)
 
 * [Machine Learning](https://de.wikipedia.org/wiki/Maschinelles_Lernen)
-* [Deep Learning](https://de.wikipedia.org/wiki/Deep_Learning)
+* [Deep Learning](https://de.wikipedia.org/wiki/Deep_Learning) ("Königsdisziplin des maschinellen Lernens")
 * [Neuronale Netze](https://de.wikipedia.org/wiki/Neuronales_Netz)
 * [Robotik](https://de.wikipedia.org/wiki/Robotik)
 * [Natural Language Processing (NLP)](https://en.wikipedia.org/wiki/Natural-language_processing)
