@@ -56,7 +56,7 @@ Die Diskussionen zu diesem Thema sind zwiespältig. Sie reichen von unrealistisc
   * Dieses Netz besteht z.B. aus unzähligen Neuronen
   * Ein einzelnes (künstliches) Neuron verarbeitet verschiedene Eingangssignale und gibt (feuert) ein Ausgangssignal nach einem vordefinierten Kriterium (Schwellenwert, Häufigkeit, Muster, etc.)
 * [Robotik](https://de.wikipedia.org/wiki/Robotik)
-  * Die Robotik ist grob gesagt die "Hardware" der künstlichen Intelligenz
+  * Die Robotik ist grob gesagt die "Hardware" (Ein- und Ausgabe) der künstlichen Intelligenz
 * [Natural Language Processing (NLP)](https://en.wikipedia.org/wiki/Natural-language_processing)
   * NLP befasst sich mit der Verarbeitung sowie der Ausgabe natürlicher Sprache in geschriebener und gesprochener Form
 
