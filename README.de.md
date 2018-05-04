@@ -51,7 +51,8 @@ Die Diskussionen zu diesem Thema sind zwiespältig. Sie reichen von unrealistisc
   * Deep Learning ist die Königsdisziplin des maschinellen Lernens und wahrscheinlich die bedeutendste Zukunftstechnologie innerhalb des Themas "künstlicher Intelligenz"
   * Es ist ein Verfahren analog dem Machine Learning, jedoch unter Einbeziehung statistischer Methoden (in Verbindung mit neuronalen Netzen, etc.)
 * [(Künstliche) Neuronale Netze](https://de.wikipedia.org/wiki/K%C3%BCnstliches_neuronales_Netz)
-  * Ist eine Simulierung und Nachahmung neuronaler Netze nach biologischem Vorbild (es besteht aus unzähligen Neuronen)
+  * Sind eine Simulierung und Nachahmung neuronaler Netze nach biologischem Vorbild
+  * Dieses Netz besteht z.B. aus unzähligen Neuronen
   * Ein einzelnes (künstliches) Neuron verarbeitet verschiedene Eingangssignale und gibt (feuert) ein Ausgangssignal nach einem vordefinierten Kriterium (Schwellenwert, Häufigkeit, Muster, etc.)
 * [Robotik](https://de.wikipedia.org/wiki/Robotik)
   * Die Robotik ist grob gesagt die "Hardware" der künstlichen Intelligenz
