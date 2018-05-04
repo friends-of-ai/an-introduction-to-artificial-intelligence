@@ -78,7 +78,7 @@ Was ist derzeit möglich? Was nicht?
   * Routenplanung (kürzester Weg von A nach B)
   * Computerspiele (Computergegner, Schach, Brettspiel Go, etc.)
   
-### (Noch) nicht möglich
+### (Noch) nicht möglich (starke künstliche Intelligenz)
 
 * "echte" Intelligenz (starke künstliche Intelligenz)
   * *"Lieber Computer, bitte löse mein Ticket mit der Nummer xy!"*
