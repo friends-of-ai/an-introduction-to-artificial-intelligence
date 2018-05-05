@@ -91,7 +91,7 @@ Was ist derzeit möglich? Was nicht?
   * Auswertung anderer Analysedaten (Maschinen, z.B. beim autonomen Fahren, etc.)
 * Ermittlung der optimalsten Lösung
   * Routenplanung (kürzester Weg von A nach B)
-  * Computerspiele (Computergegner, Schach, Brettspiel Go, etc.)
+  * Computerspiele (Computergegner, Schach, [Brettspiel Go](https://www.welt.de/newsticker/dpa_nt/infoline_nt/brennpunkte_nt/article153220565/Google-schlaegt-Mensch-Go-Meisterspieler-entschuldigt-sich.html), etc.)
 * **Kurzum:** Jede Domäne für sich ist meist sehr fortgeschritten und funktioniert auf ihrem Gebiet sehr gut (spezialisiertes Aufgabengebiet).
   
 ### (Noch) nicht möglich (starke künstliche Intelligenz)
