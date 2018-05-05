@@ -116,6 +116,7 @@ Anwendungen, welche regen Gebrauch aus dem Gebiet der künstlichen Intelligenz m
 * [Google Translate](https://translate.google.com) (Automatische Übersetzungen)
 * [Google AutoDraw](https://www.autodraw.com) (Erkennung handschriftlicher Zeichungen)
 * [Microsoft Captionbot](https://www.captionbot.ai) (Automatische Bild-Objekterkennung)
+* [Cloud Vision API](https://cloud.google.com/vision) (Bildanalyse)
 * [Facebook FBLearner Flow](https://code.facebook.com/posts/1072626246134461/introducing-fblearner-flow-facebook-s-ai-backbone/) und FBLearner Predictor (Übersetzung Posts, Klassifizierung Fotos, Auslieferung passender Werbung)
 * [IBM Watson](https://de.wikipedia.org/wiki/Watson_(K%C3%BCnstliche_Intelligenz)) (Fragenbeantwortung)
 * [Apple Core ML](https://developer.apple.com/documentation/coreml) (Gesichtserkennung)
