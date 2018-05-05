@@ -107,7 +107,6 @@ Was ist derzeit möglich? Was nicht?
 
 Anwendungen, welche regen Gebrauch aus dem Gebiet der künstlichen Intelligenz machen:
 
-* [Google Photo](https://photos.google.com) ("Smarte" Bilderkennung)
 * [Google Translate](https://translate.google.com) (Automatische Übersetzungen)
 * [DeepL](https://www.deepl.com/translator) (Übersetzungssystem auf der Basis von neuronalen Netzen)
 * [Google AutoDraw](https://www.autodraw.com) (Erkennung handschriftlicher Zeichungen)
@@ -117,6 +116,7 @@ Anwendungen, welche regen Gebrauch aus dem Gebiet der künstlichen Intelligenz m
 * [IBM Watson](https://de.wikipedia.org/wiki/Watson_(K%C3%BCnstliche_Intelligenz)) (Fragenbeantwortung)
 * [Apple Core ML](https://developer.apple.com/documentation/coreml) (Gesichtserkennung)
 * [Amazon DSSTNE](https://github.com/amzn/amazon-dsstne) (Alexa)
+* [Google Photo](https://photos.google.com) ("Smarte" Bilderkennung)
 
 ## 5. Chancen, Gefahren und Probleme der künstlichen Intelligenz
 
