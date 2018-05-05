@@ -30,13 +30,13 @@ Zusammenfassend lässt sich das Thema nicht wirklich ein- bzw. abgrenzen, da sic
 
 **Zusammengefasst:** Alle heute existierenden Systeme fallen unter die Kategorie der schwachen künstlichen Intelligenz.
 
-Schwache künstliche Intelligenz ist auf die Erfüllung klar definierter Aufgaben ausgerichtet (Erkennung von Mustern definierter Aufgabenstellungen, Klassifizierung vorgegebener Objekte, etc.). Sie simuliert lediglich Intelligenz und nutzt dabei die Vorteile der Rechentechnik gegenüber dem menschlichem Gehirn: Berechnen und Probieren verschiedener Varianten in einem Bruchteil der Zeit und Ausgabe der "intelligentesten" Lösung (z.B. kürzester Weg von A nach B). Sie sind jedoch nicht intelligent im übertragenen Sinne.
+Schwache künstliche Intelligenz ist auf die Erfüllung klar definierter Aufgaben (Domänen) ausgerichtet. Z.B.: Erkennung von Mustern definierter Aufgabenstellungen, Klassifizierung vorgegebener Objekte, etc. Sie simuliert lediglich Intelligenz und nutzt dabei die Vorteile der Rechentechnik gegenüber dem menschlichem Gehirn: Berechnen und Probieren verschiedener Varianten in einem Bruchteil der Zeit und Ausgabe der "intelligentesten" Lösung (z.B. kürzester Weg von A nach B). Sie sind jedoch nicht intelligent im übertragenen Sinne.
 
 ### 1.2 Starke künstliche Intelligenz
 
 **Zusammengefasst:** Algorithmen der Kategorie "starke künstliche Intelligenz" gibt es bisher noch nicht.
 
-Das Ziel der starken künstlichen Intelligenz ist es Maschinen dazu zu bringen aus eigenem Antrieb und ohne Eingriff Probleme intelligent zu lösen. Bis heute ist es nicht gelungen derart autonome Verhaltensweisen zu implementieren. Man spricht hier von der Umsetzung deterministischer Algorithmen, welche die intellektuellen Fähigkeiten des Menschen nachahmen bzw. sogar übertreffen können.
+Das Ziel der starken künstlichen Intelligenz ist es Maschinen dazu zu bringen aus eigenem Antrieb und ohne Eingriff Probleme intelligent zu lösen. Bis heute ist es nicht gelungen derart autonome Verhaltensweisen zu implementieren. Man spricht hier von der Umsetzung deterministischer Algorithmen, welche die intellektuellen Fähigkeiten des Menschen nachahmen bzw. sogar übertreffen können. Ein Ansatz dazu könnte sein alle bekannten Domänen (und darüber hinaus) intelligent zusammenzufassen bzw. der Maschine Anhaltspunkte mitzugeben, wo sie sich die fehlenden Domänen selbstständig aneignen kann.
 
 Die Diskussionen zu diesem Thema sind zwiespältig. Sie reichen von unrealistisch bis realistisch in ein paar Jahrzehnten. Die Entwicklung neuartiger Computerarchitekturen (Quantencomputer) kann einen entscheidenden Beitrag zur Lösung dieses Ziel beitragen.
 
