@@ -20,7 +20,7 @@ Weitere praktische Beispiele befinden sich im Kapitel: [A. Weiterführende Tutor
 
 ## 1. Was ist künstliche Intelligenz?
 
-Es gibt eine Menge von Seiten und Fachliteratur, welche das Thema allumfassend gut erklären und erläutern. Allen voran der Eintrag in der Wikipedia: [Künstliche Intelligenz](https://de.wikipedia.org/wiki/K%C3%BCnstliche_Intelligenz)
+Es gibt eine Menge von Seiten und Fachliteratur, welche das Thema allumfassend gut erklären und erläutern. Allen voran der Eintrag in der Wikipedia: [Künstliche Intelligenz](https://de.wikipedia.org/wiki/K%C3%BCnstliche_Intelligenz). Weitere Querverweise finden sich in den Quellenangaben bzw. auch an den entsprechenden Stellen in diesem Dokument.
 
 Zusammenfassend lässt sich das Thema nicht wirklich ein- bzw. abgrenzen, da sich der Begriff Intelligenz weder philosophisch noch systematischen vollständig definieren lässt. Im Allgemeinen bezeichnet die "künstliche" Intelligenz ein Teilgebiet der Informatik. Ein Teilgebiet, der den Versuch unternimmt menschenähnliche (intelligente) Entscheidungsstrukturen nachzubilden. **Anders ausgedrückt:** Man simuliert z.B. mit Hilfe des Computers durch Implementation entsprechender Algorithmen und Lösungsansätze ein Verhalten, mit welchem vorgelegte Probleme selbstständig durch Lernen, Erkennen und Ausprobieren gelöst werden können (z.B. die Einsortierung von Bildern, das Verstehen von gesprochener Sprache, etc.).
 
