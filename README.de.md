@@ -68,6 +68,7 @@ Ferner:
 * [Mustererkennung](https://de.wikipedia.org/wiki/Mustererkennung)
 * (maschinelles) [Lernen](https://de.wikipedia.org/wiki/Computational_Neuroscience) (überwacht, unüberwacht, teilüberwacht, etc.)
 * [Graphen-, Netzwerktheorie](https://de.wikipedia.org/wiki/Graphentheorie)
+* [technologische Singularität](https://de.wikipedia.org/wiki/Technologische_Singularit%C3%A4t)
 
 ## 3. Verwendungszweck
 
@@ -87,12 +88,14 @@ Was ist derzeit möglich? Was nicht?
 * Ermittlung der optimalsten Lösung
   * Routenplanung (kürzester Weg von A nach B)
   * Computerspiele (Computergegner, Schach, Brettspiel Go, etc.)
+* **Kurzum:** Jede Domäne für sich ist meist sehr fortgeschritten und funktioniert auf ihrem Gebiet sehr gut (spezialisiertes Aufgabengebiet).
   
 ### (Noch) nicht möglich (starke künstliche Intelligenz)
 
 * "echte" Intelligenz (starke künstliche Intelligenz)
   * *"Lieber Computer, bitte löse mein Ticket mit der Nummer xy!"*
   * *"Computer! Ich habe all meine Dokumente in der Cloud hochgeladen. Zugangsdaten findest du auf meinem USB-Stick, welchen ich dir am PC angesteckt habe. Bitte erledige nun meine Steuererklärung!"*
+* **Kurzum:** [Technologische Singularität](https://de.wikipedia.org/wiki/Technologische_Singularit%C3%A4t) ist derzeit noch nicht möglich. Sprich das intelligente Verknüpfen "aller" Domänen in eine Maschine. Wie funktioniert die Welt?
 
 ## 4. Anwendungen
 
