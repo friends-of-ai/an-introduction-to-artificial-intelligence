@@ -94,21 +94,7 @@ Was ist derzeit möglich? Was nicht?
   * *"Lieber Computer, bitte löse mein Ticket mit der Nummer xy!"*
   * *"Computer! Ich habe all meine Dokumente in der Cloud hochgeladen. Zugangsdaten findest du auf meinem USB-Stick, welchen ich dir am PC angesteckt habe. Bitte erledige nun meine Steuererklärung!"*
 
-## 4. Werkzeuge
-
-Frameworks und Tools, welche bei dem Thema künstliche Intelligenz unterstützen bzw. Technologien der KI nutzen:
-
-* [TensorFlow](https://www.tensorflow.org/) (Open source machine learning framework; Google)
-* [Caffe](http://caffe.berkeleyvision.org) (Deep Learning Framework)
-* [Keras](https://keras.io) (Python Deep Learning library)
-* [Apache MXNet](https://mxnet.incubator.apache.org) (A flexible and efficient library for deep learning; Apache)
-* [Apache MLlib (Spark)](https://spark.apache.org/mllib) (Scalable machine learning library; Apache)
-* [Gluon](https://aws.amazon.com/de/blogs/aws/introducing-gluon-a-new-library-for-machine-learning-from-aws-and-microsoft) (Library for machine learning; Microsoft; Amazon)
-* [PyTorch](https://pytorch.org) (Deep learning framework)
-* [The Microsoft Cognitive Toolkit](https://www.microsoft.com/en-us/cognitive-toolkit) (Toolkit that trains deep learning algorithms; Microsoft)
-* [DL4J](https://deeplearning4j.org) (Deep Learning Library for the JVM)
-
-## 5. Anwendungen
+## 4. Anwendungen
 
 Anwendungen, welche regen Gebrauch aus dem Gebiet der künstlichen Intelligenz machen:
 
@@ -122,24 +108,38 @@ Anwendungen, welche regen Gebrauch aus dem Gebiet der künstlichen Intelligenz m
 * [Apple Core ML](https://developer.apple.com/documentation/coreml) (Gesichtserkennung)
 * [Amazon DSSTNE](https://github.com/amzn/amazon-dsstne) (Alexa)
 
-## 6. Chancen, Gefahren und Probleme der künstlichen Intelligenz
+## 5. Chancen, Gefahren und Probleme der künstlichen Intelligenz
 
-### 6.1. Chancen
+### 5.1. Chancen
 
 * Fehlerquote durch Unachtsamkeit wird verringert (diese Fehlerart gibt es beim Computer praktisch nicht)
   * [An den meisten Unfällen sind Menschen schuld @ DIE WELT](https://www.welt.de/sonderthemen/noahberlin/article165739463/An-den-meisten-Unfaellen-sind-Menschen-schuld.html)
 
-### 6.2. Gefahren
+### 5.2. Gefahren
 
 * Arbeiten können durch Maschinen vollständig autonom übernommen werden: bestimmte Berufe werden überflüssig
   * [Droht mit Digitalisierung jedem zweiten Job das Aus? @ DIE WELT](https://www.welt.de/wirtschaft/webwelt/article150856398/Droht-mit-Digitalisierung-jedem-zweiten-Job-das-Aus.html)
   * [Diese KI könnte auch Foto-Experten den Job kosten @ mobilegeeks.com](https://www.mobilegeeks.de/news/google-creatism-diese-ki-koennte-auch-foto-experten-den-job-kosten)
 * Mögliche Fehlschlüsse von Berechnungen bzw. nicht alle Berechnungen sind transparent: "Ist der Betroffene wirklich nicht kreditwürdig?"
 
-### 6.3. Probleme
+### 5.3. Probleme
 
 * Maschinen kennen keine Ethik. Sie muss vorher "implementiert" werden. Affekthandlungen gibt es nicht. Wie soll die Maschine bei einem unvermeidbarem Unfall reagieren? Wie ist die Schuldfrage bei Schäden bzw. Todesfällen?
   * [Der Todesalgorithmus @ ZEIT ONLINE](https://www.zeit.de/kultur/2017-09/kuenstliche-intelligenz-algorithmus-spam-autonomes-fahren)
+  
+## 6. Werkzeuge
+
+Frameworks und Tools, welche bei dem Thema künstliche Intelligenz unterstützen bzw. Technologien der KI nutzen:
+
+* [TensorFlow](https://www.tensorflow.org/) (Open source machine learning framework; Google)
+* [Caffe](http://caffe.berkeleyvision.org) (Deep Learning Framework)
+* [Keras](https://keras.io) (Python Deep Learning library)
+* [Apache MXNet](https://mxnet.incubator.apache.org) (A flexible and efficient library for deep learning; Apache)
+* [Apache MLlib (Spark)](https://spark.apache.org/mllib) (Scalable machine learning library; Apache)
+* [Gluon](https://aws.amazon.com/de/blogs/aws/introducing-gluon-a-new-library-for-machine-learning-from-aws-and-microsoft) (Library for machine learning; Microsoft; Amazon)
+* [PyTorch](https://pytorch.org) (Deep learning framework)
+* [The Microsoft Cognitive Toolkit](https://www.microsoft.com/en-us/cognitive-toolkit) (Toolkit that trains deep learning algorithms; Microsoft)
+* [DL4J](https://deeplearning4j.org) (Deep Learning Library for the JVM)
   
 ## A. Weiterführende Tutorials
 
