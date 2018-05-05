@@ -171,6 +171,7 @@ Empfohlen für den praktischen Einsatz:
 ## C. Quellen
 
 * Inspiriert von der Vorlesung und der Übung "Künstliche Intelligenz" der TU-Chemnitz: [Künstliche Intelligenz](https://www.tu-chemnitz.de/informatik/KI/edu/ki)
+* [Google schlägt Mensch - Go-Meisterspieler entschuldigt sich @ DIE WELT](https://www.welt.de/newsticker/dpa_nt/infoline_nt/brennpunkte_nt/article153220565/Google-schlaegt-Mensch-Go-Meisterspieler-entschuldigt-sich.html)
 
 ## D. Authors
 
