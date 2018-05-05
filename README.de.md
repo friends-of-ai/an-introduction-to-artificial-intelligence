@@ -24,6 +24,8 @@ Es gibt eine Menge von Seiten und Fachliteratur, welche das Thema allumfassend g
 
 Zusammenfassend lässt sich das Thema nicht wirklich ein- bzw. abgrenzen, da sich der Begriff Intelligenz weder philosophisch noch systematischen vollständig definieren lässt. Im Allgemeinen bezeichnet die "künstliche" Intelligenz ein Teilgebiet der Informatik. Ein Teilgebiet, der den Versuch unternimmt menschenähnliche (intelligente) Entscheidungsstrukturen nachzubilden. **Anders ausgedrückt:** Man simuliert z.B. mit Hilfe des Computers durch Implementation entsprechender Algorithmen und Lösungsansätze ein Verhalten, mit welchem vorgelegte Probleme selbstständig durch Lernen, Erkennen und Ausprobieren gelöst werden können.
 
+Auf dem Gebiet wird schon seit einigen Jahrzehnten geforscht. Die Algorithmen und Vorgehensweisen unterscheiden sich dabei heute gar nicht allzusehr von denen vor rund 20 Jahren. Was den Hype und Erfolg heutzutage ausmacht sind die geballte Rechenleistung ganzer Rechenzentren, bis hin zu einer schier unendlich verfügbaren Menge an Daten (klassifiziert und noch zu klassifizieren). Die Nutzung von (kostenlosen) Internetdiensten durch die fast komplett vernetzte Menschheit, erlaubt den Zugang zu kostenlosen Ressourcen, welche helfen die künstliche Intelligenz zu verbessern (Google, Microsoft, facebook, etc.).
+
 **Hinweis:** Nicht alle auftauchenden Themen unterhalb der künstlichen Intelligenz müssen zwangsweise mit den Begriffen der (menschlichen bzw. "echten") Intelligenz korrelieren (Stichwort: Big Data, etc.). Oft vermengen sich hier Themen beider Teilbereiche so wie sich der Begriff Intelligenz auch nicht eindeutig definieren lässt.
 
 ### 1.1 Schwache künstliche Intelligenz
@@ -51,7 +53,7 @@ Die Diskussionen zu diesem Thema sind zwiespältig. Sie reichen von unrealistisc
 * [Deep Learning](https://de.wikipedia.org/wiki/Deep_Learning)
   * Deep Learning ist die Königsdisziplin des maschinellen Lernens und wahrscheinlich die bedeutendste Zukunftstechnologie innerhalb des Themas "künstlicher Intelligenz"
   * Es ist ein Verfahren analog dem Machine Learning, jedoch unter Einbeziehung statistischer Methoden (in Verbindung mit neuronalen Netzen, etc.)
-  * **Anders ausgedrückt:** Machine Learning: Vorhersagen durch vordefinierte Algorithmen, Deep Learning: die entsprechenden Algorithmen werden gelernt und permanent durch Anwendung weiter verfeinert und verbessert. Vorhersagen stammen dann aus diesen automatisch gelernten Algorithmen.
+  * **Anders ausgedrückt:** Machine Learning: Vorhersagen durch vordefinierte Algorithmen (assisted learning), Deep Learning: geht einen Schritt weiter. Die entsprechenden Algorithmen werden gelernt und permanent durch Anwendung weiter verfeinert und verbessert. Vorhersagen stammen dann aus diesen automatisch gelernten Algorithmen. Die Maschine findet unter Umständen Dinge, die wir nicht gesucht / erwartet haben.
 * [(Künstliche) Neuronale Netze](https://de.wikipedia.org/wiki/K%C3%BCnstliches_neuronales_Netz)
   * Sind eine Simulierung und Nachahmung neuronaler Netze nach biologischem Vorbild
   * Dieses Netz besteht z.B. aus unzähligen Neuronen
