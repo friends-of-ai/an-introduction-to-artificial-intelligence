@@ -91,7 +91,7 @@ Was ist derzeit möglich? Was nicht?
   * Auswertung anderer Analysedaten (Maschinen, z.B. beim autonomen Fahren, etc.)
 * Ermittlung der optimalsten Lösung
   * Routenplanung (kürzester Weg von A nach B)
-  * Computerspiele (Computergegner, Schach, [Brettspiel Go](https://www.welt.de/newsticker/dpa_nt/infoline_nt/brennpunkte_nt/article153220565/Google-schlaegt-Mensch-Go-Meisterspieler-entschuldigt-sich.html), etc.)
+  * Computerspiele (Computergegner, [Schach](https://blog.zeit.de/schach/als-deep-blue-das-genie-garry-kasparow-schlug/), [Brettspiel Go](https://www.welt.de/newsticker/dpa_nt/infoline_nt/brennpunkte_nt/article153220565/Google-schlaegt-Mensch-Go-Meisterspieler-entschuldigt-sich.html), etc.)
 * **Kurzum:** Jede Domäne für sich ist meist sehr fortgeschritten und funktioniert auf ihrem Gebiet sehr gut (spezialisiertes Aufgabengebiet).
   
 ### (Noch) nicht möglich (starke künstliche Intelligenz)
@@ -172,6 +172,7 @@ Empfohlen für den praktischen Einsatz:
 
 * Inspiriert von der Vorlesung und der Übung "Künstliche Intelligenz" der TU-Chemnitz: [Künstliche Intelligenz](https://www.tu-chemnitz.de/informatik/KI/edu/ki)
 * [Google schlägt Mensch - Go-Meisterspieler entschuldigt sich @ DIE WELT](https://www.welt.de/newsticker/dpa_nt/infoline_nt/brennpunkte_nt/article153220565/Google-schlaegt-Mensch-Go-Meisterspieler-entschuldigt-sich.html)
+* [Als Deep Blue das Genie Garri Kasparow schlug @ ZEIT ONLINE](https://blog.zeit.de/schach/als-deep-blue-das-genie-garry-kasparow-schlug)
 
 ## D. Authors
 
