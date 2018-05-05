@@ -170,7 +170,7 @@ Empfohlen für den praktischen Einsatz:
 
 ## C. Quellen
 
-* Inspiriert von der Vorlesung und der Übung "Künstliche Intelligenz" der TU-Chemnitz: [Künstliche Intelligenz](https://www.tu-chemnitz.de/informatik/KI/edu/ki) ;)
+* Inspiriert von der Vorlesung und der Übung "Künstliche Intelligenz" der TU-Chemnitz: [Künstliche Intelligenz](https://www.tu-chemnitz.de/informatik/KI/edu/ki)
 
 ## D. Authors
 
