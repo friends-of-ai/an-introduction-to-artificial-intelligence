@@ -126,6 +126,7 @@ Anwendungen, welche regen Gebrauch aus dem Gebiet der künstlichen Intelligenz m
   * Computer-Linguisten
   * KI-Trainer
   * Robotics Engineer
+  * Data Scientist
   * etc. ..
 
 ### 5.2. Gefahren
