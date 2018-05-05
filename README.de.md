@@ -109,6 +109,7 @@ Anwendungen, welche regen Gebrauch aus dem Gebiet der künstlichen Intelligenz m
 
 * [Google Photo](https://photos.google.com) ("Smarte" Bilderkennung)
 * [Google Translate](https://translate.google.com) (Automatische Übersetzungen)
+* [DeepL](https://www.deepl.com/translator) (Übersetzungssystem auf der Basis von neuronalen Netzen)
 * [Google AutoDraw](https://www.autodraw.com) (Erkennung handschriftlicher Zeichungen)
 * [Microsoft Captionbot](https://www.captionbot.ai) (Automatische Bild-Objekterkennung)
 * [Cloud Vision API](https://cloud.google.com/vision) (Bildanalyse)
