@@ -99,7 +99,7 @@ Was ist derzeit möglich? Was nicht?
 * "echte" Intelligenz (starke künstliche Intelligenz)
   * *"Lieber Computer, bitte löse mein Ticket mit der Nummer xy!"*
   * *"Computer! Ich habe all meine Dokumente in der Cloud hochgeladen. Zugangsdaten findest du auf meinem USB-Stick, welchen ich dir am PC angesteckt habe. Bitte erledige nun meine Steuererklärung!"*
-* **Kurzum:** [Technologische Singularität](https://de.wikipedia.org/wiki/Technologische_Singularit%C3%A4t) ist derzeit noch nicht möglich. Sprich das intelligente Verknüpfen "aller" Domänen in eine Maschine. Wie funktioniert die Welt?
+* **Kurzum:** [Technologische Singularität](https://de.wikipedia.org/wiki/Technologische_Singularit%C3%A4t) ist derzeit noch nicht möglich. Sprich das intelligente Verknüpfen "aller" Domänen in eine Maschine. *Wie funktioniert die Welt?*
 
 ## 4. Anwendungen
 
