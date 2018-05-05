@@ -117,6 +117,12 @@ Anwendungen, welche regen Gebrauch aus dem Gebiet der künstlichen Intelligenz m
 
 * Fehlerquote durch Unachtsamkeit wird verringert (diese Fehlerart gibt es beim Computer praktisch nicht)
   * [An den meisten Unfällen sind Menschen schuld @ DIE WELT](https://www.welt.de/sonderthemen/noahberlin/article165739463/An-den-meisten-Unfaellen-sind-Menschen-schuld.html)
+* Neue Berufszweige bzw. stärkere Nachfrage schon bestehender Berufszweige
+  * UIMA Modeller
+  * Computer-Linguisten
+  * KI-Trainer
+  * Robotics Engineer
+  * etc. ..
 
 ### 5.2. Gefahren
 
