@@ -154,7 +154,7 @@ Bei klassischen Programmierverfahren ist die Implementierung des Modells bekannt
 
 Da das Modell von Anfang an bekannt ist und man die Lösung einfach vorhersehen kann, wird dieses Verfahren White Box Verfahren genannt. Man schließt hierbei vom Modell direkt auf die Einzelbeobachtungen (Deduktion).
 
-Bei den Verfahren des Machine Learning wird dieses Verfahren "umgedreht". Hierbei sind eine Datensätze von Eingaben und die entprechenden Ausgaben bekannt (ähnlich dem Verfahren der testgetriebenen Entwicklung). Diese werden zum Lernen und Trainieren des Systems verwendet und ein mögliches Modell bestimmt. Man nennt dies auch Supervised Machine Learning:
+Bei den Verfahren des Machine Learning wird die Vorgehensweise "umgedreht". Hierbei sind eine Datensätze von Eingaben und die entprechenden Ausgaben bekannt (ähnlich dem Verfahren der testgetriebenen Entwicklung). Diese werden zum Lernen und Trainieren des Systems verwendet und ein mögliches Modell bestimmt. Man nennt dies auch Supervised Machine Learning:
 
 [![Induktives Verfahren](/images/induktiv.png)](/images/induktiv.png)
 
