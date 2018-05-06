@@ -160,7 +160,7 @@ Bei den Verfahren des Machine Learning wird dieses Verfahren "umgedreht". Hierbe
 
 Da oft nur das Ergebniss zählt und nicht bekannt ist, wie das Modell entstanden ist, wird dieses Verfahren auch Black Box Verfahren genannt. Da hier von Einzelbeobachtungen auf das Modell geschlossen wird, wird diese Methoden der Erkenntnisgewinnung auch Induktion genannt.
 
-
+Ein Hybrid aus beiden Verfahren nennt man auch Grey Box Verfahren.
   
 ## 7. Werkzeuge
 
