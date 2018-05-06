@@ -148,13 +148,19 @@ Anwendungen, welche regen Gebrauch aus dem Gebiet der künstlichen Intelligenz m
 
 ### 6.1. Am Beispiel des Machine Learnings
 
-Bei klassischen Programmierverfahren ist die Implementierung des Modells bekannt. Das Modell hat die Aufgabe Eingaben direkt in eine Ausgabe umzuwandeln (White Box Verfahren):
+Bei klassischen Programmierverfahren ist die Implementierung des Modells bekannt. Das Modell hat die Aufgabe Eingaben direkt in eine Ausgabe umzuwandeln:
 
-[![Dektives Verfahren](/images/deduktiv.png)](/images/deduktiv.png)
+[![Deduktives Verfahren](/images/deduktiv.png)](/images/deduktiv.png)
+
+Da das Modell von Anfang an bekannt ist und man die Lösung einfach vorhersehen kann, wird dieses Verfahren White Box Verfahren genannt. Man schließt hierbei vom Modell auf die Einzelbeobachtungen (Deduktion).
 
 Bei den Verfahren des Machine Learning wird dieses Verfahren "umgedreht". Hierbei sind eine Datensätze von Eingaben und die entprechenden Ausgaben bekannt (ähnlich dem Verfahren der testgetriebenen Entwicklung). Diese werden zum Lernen und Trainieren des Systems verwendet und ein mögliches Modell bestimmt. Man nennt dies auch Supervised Machine Learning:
 
 [![Induktives Verfahren](/images/induktiv.png)](/images/induktiv.png)
+
+Da oft nur das Ergebniss zählt und nicht bekannt ist, wie das Modell entstanden ist, wird dieses Verfahren auch Black Box Verfahren genannt. Da hier von Einzelbeobachtungen auf das Modell geschlossen wird, wird diese Methoden der Erkenntnisgewinnung auch Induktion genannt.
+
+
   
 ## 7. Werkzeuge
 
