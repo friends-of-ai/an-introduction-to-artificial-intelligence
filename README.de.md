@@ -144,7 +144,13 @@ Anwendungen, welche regen Gebrauch aus dem Gebiet der künstlichen Intelligenz m
 * Maschinen kennen keine Ethik. Sie muss vorher "implementiert" werden. Affekthandlungen gibt es nicht. Wie soll die Maschine bei einem unvermeidbarem Unfall reagieren? Wie ist die Schuldfrage bei Schäden bzw. Todesfällen?
   * [Der Todesalgorithmus @ ZEIT ONLINE](https://www.zeit.de/kultur/2017-09/kuenstliche-intelligenz-algorithmus-spam-autonomes-fahren)
   
-## 6. Werkzeuge
+## 6. Künstliche Intelligenz aus Programmierersicht
+
+### 6.1. Am Beispiel des Machine Learnings
+
+
+  
+## 7. Werkzeuge
 
 Frameworks und Tools, welche bei dem Thema künstliche Intelligenz unterstützen bzw. Technologien der KI nutzen:
 
