@@ -148,7 +148,9 @@ Anwendungen, welche regen Gebrauch aus dem Gebiet der künstlichen Intelligenz m
 
 ### 6.1. Am Beispiel des Machine Learnings
 
+[![Dektives Verfahren](/images/deduktiv.png)](/images/deduktiv.png)
 
+[![Induktives Verfahren](/images/induktiv.png)](/images/induktiv.png)
   
 ## 7. Werkzeuge
 
