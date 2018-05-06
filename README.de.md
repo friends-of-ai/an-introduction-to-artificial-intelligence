@@ -122,7 +122,7 @@ Anwendungen, welche regen Gebrauch aus dem Gebiet der künstlichen Intelligenz m
 
 ### 5.1. Chancen
 
-* Fehlerquotem durch Unachtsamkeit werden verringert (diese Fehlerart gibt es beim Computer praktisch nicht)
+* Fehlerquoten durch Unachtsamkeit werden verringert (diese Fehlerart gibt es beim Computer praktisch nicht)
   * [An den meisten Unfällen sind Menschen schuld @ DIE WELT](https://www.welt.de/sonderthemen/noahberlin/article165739463/An-den-meisten-Unfaellen-sind-Menschen-schuld.html)
 * Neue Berufszweige bzw. stärkere Nachfrage schon bestehender Berufszweige
   * UIMA Modeller
