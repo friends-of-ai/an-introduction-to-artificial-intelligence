@@ -152,7 +152,7 @@ Bei klassischen Programmierverfahren ist die Implementierung des Modells bekannt
 
 [![Deduktives Verfahren](/images/deduktiv.png)](/images/deduktiv.png)
 
-Da das Modell von Anfang an bekannt ist und man die Lösung einfach vorhersehen kann, wird dieses Verfahren White Box Verfahren genannt. Man schließt hierbei vom Modell direkt auf die Einzelbeobachtungen (Deduktion).
+Da das Modell von Anfang an bekannt ist und man die Lösung "einfach" vorhersehen kann, wird dieses Verfahren White Box Verfahren genannt. Man schließt hierbei vom Modell direkt auf die Einzelbeobachtungen (Deduktion).
 
 Bei den Verfahren des Machine Learning wird die Vorgehensweise "umgedreht". Hierbei sind Datensätze von Eingaben und die entprechenden Ausgaben (Erwartungswerte) bekannt (ähnlich dem Verfahren der testgetriebenen Entwicklung). Diese werden zum Lernen und Trainieren des Systems verwendet und ein mögliches Modell bestimmt. Man nennt dies auch Supervised Machine Learning:
 
