@@ -188,13 +188,13 @@ Empfohlen für den praktischen Einsatz:
 * [Praxiseinstieg Deep Learning](https://www.oreilly.de/buecher/12840/9783960090540-praxiseinstieg-deep-learning.html)
 * [Machine Learning – kurz & gut](https://www.oreilly.de/buecher/12870/9783960090526-machine-learning-%E2%80%93-kurz-%26-gut.html)
 * [Neuronale Netze selbst programmieren](https://www.oreilly.de/buecher/12892/9783960090434-neuronale-netze-selbst-programmieren.html)
-* [Computer und Roboter - Künstliche Intelligenz @ Planet Wissen](https://www.planet-wissen.de/technik/computer_und_roboter/kuenstliche_intelligenz)
 
 ## C. Quellen
 
 * Inspiriert von der Vorlesung und der Übung "Künstliche Intelligenz" der TU-Chemnitz: [Künstliche Intelligenz](https://www.tu-chemnitz.de/informatik/KI/edu/ki)
 * [Google schlägt Mensch - Go-Meisterspieler entschuldigt sich @ DIE WELT](https://www.welt.de/newsticker/dpa_nt/infoline_nt/brennpunkte_nt/article153220565/Google-schlaegt-Mensch-Go-Meisterspieler-entschuldigt-sich.html)
 * [Als Deep Blue das Genie Garri Kasparow schlug @ ZEIT ONLINE](https://blog.zeit.de/schach/als-deep-blue-das-genie-garry-kasparow-schlug)
+* [Computer und Roboter - Künstliche Intelligenz @ Planet Wissen](https://www.planet-wissen.de/technik/computer_und_roboter/kuenstliche_intelligenz)
 
 ## D. Authors
 
