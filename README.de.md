@@ -160,7 +160,7 @@ Bei den Verfahren des Machine Learning wird die Vorgehensweise "umgedreht". Hier
 
 Da oft nicht bekannt ist, wie das Modell entstanden ist (und es meist auch gar nicht interessiert), wird dieses Verfahren auch Black Box Verfahren genannt. Man schließt bei dieser Vorgehensweise von Einzelbeobachtungen auf das Modell und spricht bei dieser Methoden der Erkenntnisgewinnung auch von Induktion. Ein Hybrid aus beiden Varianten nennt man auch Grey Box Verfahren.
 
-Die Methoden des Machine Learnings sind vor allem dort überaus nützlich, bei dem der Aufwand für die direkte Bestimmung des Modells unmöglich ist bzw. einen hohen Aufwand erfordert. **Beispiel:** Um ein Objekt auf einem Bild zu erkennen, wird man keinen Algorithmus direkt dafür bestimmen können, sondern auf die Methoden des Machine Learnings zugreifen. Entsprechende Trainingsdaten vorausgesetzt ist der Aufwand (die Kosten) für die technische Implementierung unter zuhilfenahme entsprechender technischen Ressourcen sehr viel geringer, als der Versuch das Modell direkt zu implementieren. 
+Die Methoden des Machine Learnings sind vor allem dort überaus nützlich, bei dem der Aufwand für die direkte Bestimmung des Modells unmöglich ist bzw. einen hohen Aufwand erfordert. **Beispiel:** Um ein Objekt auf einem Bild zu erkennen, wird man keinen Algorithmus direkt dafür bestimmen können, sondern auf die Methoden des Machine Learnings zurückgreifen. Entsprechende Trainingsdaten vorausgesetzt ist der Aufwand (die Kosten) für die technische Implementierung unter zuhilfenahme entsprechender technischen Ressourcen sehr viel geringer, als der Versuch das Modell direkt zu implementieren. 
   
 ## 7. Werkzeuge
 
