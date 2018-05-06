@@ -128,8 +128,8 @@ Anwendungen, welche regen Gebrauch aus dem Gebiet der künstlichen Intelligenz m
   * UIMA Modeller
   * Computer-Linguisten
   * KI-Trainer
-  * Robotics Engineer
-  * Data Scientist
+  * Robotics Engineers
+  * Data Scientists
   * etc. ..
 
 ### 5.2. Gefahren
