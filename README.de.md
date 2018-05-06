@@ -148,7 +148,11 @@ Anwendungen, welche regen Gebrauch aus dem Gebiet der künstlichen Intelligenz m
 
 ### 6.1. Am Beispiel des Machine Learnings
 
+Bei klassischen Programmierverfahren ist die Implementierung des Modells bekannt. Das Modell hat die Aufgabe Eingaben direkt in eine Ausgabe umzuwandeln (White Box Verfahren):
+
 [![Dektives Verfahren](/images/deduktiv.png)](/images/deduktiv.png)
+
+Bei den Verfahren des Machine Learning wird dieses Verfahren "umgedreht". Hierbei sind eine Datensätze von Eingaben und die entprechenden Ausgaben bekannt (ähnlich dem Verfahren der testgetriebenen Entwicklung). Diese werden zum Lernen und Trainieren des Systems verwendet und ein mögliches Modell bestimmt. Man nennt dies auch Supervised Machine Learning:
 
 [![Induktives Verfahren](/images/induktiv.png)](/images/induktiv.png)
   
