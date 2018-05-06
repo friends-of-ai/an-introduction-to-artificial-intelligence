@@ -152,7 +152,7 @@ Bei klassischen Programmierverfahren ist die Implementierung des Modells bekannt
 
 [![Deduktives Verfahren](/images/deduktiv.png)](/images/deduktiv.png)
 
-Da das Modell von Anfang an bekannt ist und man die Lösung einfach vorhersehen kann, wird dieses Verfahren White Box Verfahren genannt. Man schließt hierbei vom Modell auf die Einzelbeobachtungen (Deduktion).
+Da das Modell von Anfang an bekannt ist und man die Lösung einfach vorhersehen kann, wird dieses Verfahren White Box Verfahren genannt. Man schließt hierbei vom Modell direkt auf die Einzelbeobachtungen (Deduktion).
 
 Bei den Verfahren des Machine Learning wird dieses Verfahren "umgedreht". Hierbei sind eine Datensätze von Eingaben und die entprechenden Ausgaben bekannt (ähnlich dem Verfahren der testgetriebenen Entwicklung). Diese werden zum Lernen und Trainieren des Systems verwendet und ein mögliches Modell bestimmt. Man nennt dies auch Supervised Machine Learning:
 
@@ -161,6 +161,8 @@ Bei den Verfahren des Machine Learning wird dieses Verfahren "umgedreht". Hierbe
 Da oft nur das Ergebniss zählt und nicht bekannt ist, wie das Modell entstanden ist, wird dieses Verfahren auch Black Box Verfahren genannt. Da hier von Einzelbeobachtungen auf das Modell geschlossen wird, wird diese Methoden der Erkenntnisgewinnung auch Induktion genannt.
 
 Ein Hybrid aus beiden Verfahren nennt man auch Grey Box Verfahren.
+
+Die Methoden des Machine Learnings sind vor allem dort überaus nützlich, bei dem der Aufwand für die direkte Bestimmung unmöglich bzw. einen hohen Aufwand erfordert. **Beispiel:** Um ein Objekt auf einem Bild zu erkennen, wird man keinen Algorithmus direkt dafür bestimmen können, sondern auf die Methoden des Machine Learnings zugreifen. Entsprechende Trainingsdaten vorausgesetzt ist der Aufwand (die Kosten) für die technische Implementierung unter zuhilfenahme entsprechender technischen Ressourcen sehr viel geringer, als der Versuch das Modell direkt zu implementieren. 
   
 ## 7. Werkzeuge
 
