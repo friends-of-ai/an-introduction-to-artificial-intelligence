@@ -179,6 +179,7 @@ Frameworks und Tools, welche bei dem Thema künstliche Intelligenz unterstützen
 ## A. Weiterführende Tutorials
 
 * [Probleme mittels Suche lösen](https://github.com/friends-of-ai/solve-problems-by-searching)
+* [Neuronale Netze erstellen](https://github.com/friends-of-ai/create-neuronal-networks)
 * Coming soon..
 
 ## B. Literatur
