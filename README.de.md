@@ -90,7 +90,7 @@ Quelle: [Komplexe Entscheidungssituationen: Intuitiv beurteilen, rational begrü
 
 **Intuitives Denken:** automatisch/unbewusst, emotionsbasiert, nonverbal, ganzheitlich, „passive“, spontane Gedanken/Eingebungen
 
-Erfolgreiche KI-Systeme basieren auf maschinellem Lernen. Sie lernen von Daten, welche ursprünglich von Menschen klassifiziert wurden. Sie handeln deshalb auf eine statistische Art und Weise von Daten, welche von Menschen intuitiv erzeugt wurden. Intuition wird in diesem Fall simuliert. Die Systeme sind jedoch genau gesehen nicht wirklich intuitiv. Die Grundlage der Entscheidung sind immer noch deterministische Algorithmen und Ablaufvorschriften. Die Klassifizierung unbekannter Objekte muss nicht mehr zwangsläufig unbedingt "richtig" sein. Eine Kontrolle und letztendliche Entscheidung sollte (aktuell) noch immer beim Menschen bleiben.
+Erfolgreiche KI-Systeme basieren auf maschinellem Lernen. Sie lernen von Daten, welche ursprünglich von Menschen (intuitiv) klassifiziert wurden. Sie handeln deshalb auf eine statistische Art und Weise von Daten, welche von Menschen intuitiv erzeugt wurden. Intuition wird in diesem Fall simuliert. Die Systeme sind jedoch genau gesehen nicht wirklich intuitiv. Die Grundlage der Entscheidung sind immer noch deterministische Algorithmen und Ablaufvorschriften. Die Klassifizierung unbekannter Objekte muss nicht mehr zwangsläufig unbedingt "richtig" sein. Eine Kontrolle und letztendliche Entscheidung sollte (aktuell) noch immer beim Menschen bleiben.
 
 ## 4. Verwendungszweck
 
