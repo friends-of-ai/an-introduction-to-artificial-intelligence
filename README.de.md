@@ -202,6 +202,7 @@ Empfohlen für den praktischen Einsatz:
 * [Ein kleiner Überblick über Neuronale Netze](http://www.dkriesel.com/science/neural_networks) (Freies eBook, Deutsch, Englisch)
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) (Liste ausgewählter Machine Learning Frameworks, Bibliotheken und Software, Englisch)
 * [The most cited deep learning papers](https://github.com/terryum/awesome-deep-learning-papers) (Liste der bekanntesten Paper zum Thema Deep Learning, Englisch)
+* [Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463) (Umfangreiche Liste von KI Cheat Sheets, Englisch)
 
 ## C. Quellen
 
