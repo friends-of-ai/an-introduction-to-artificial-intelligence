@@ -90,6 +90,7 @@ TODO..
 
 *Quelle: [Komplexe Entscheidungssituationen: Intuitiv beurteilen, rational begründen](https://www.wissensdialoge.de/komplexe-entscheidungssituationen-intuition)*
 
+
 Erfolgreiche KI-Systeme basieren (aktuell gesehen) auf maschinellem Lernen. Sie lernen von Daten, welche ursprünglich von Menschen (intuitiv) klassifiziert wurden. Die KI-Systeme handeln deshalb auf eine statistische Art und Weise nach diesen intuitiven Daten und "ahmen" dieses Verhalten nach bzw. setzen diesen "Gedankengang" (dieses Muster) fort. Intuition wird also in diesem Fall simuliert. Die Systeme sind jedoch genau genommen nicht wirklich intuitiv. Die Grundlage weiterer Entscheidungen sind immer noch deterministische Algorithmen und Ablaufvorschriften. Die Klassifizierung unbekannter Objekte muss nach dem Lernprozess nicht mehr zwangsläufig "richtig" sein. Eine Kontrolle und letztendliche Entscheidung sollte (aktuell) noch immer beim Menschen bleiben. Letztendlich bleibt bei diesem Thema die Frage, ob die simulierte Intuition der Maschine für die Erreichung des gewünschten Zieles ausreicht oder eben nicht.
 
 ## 4. Verwendungszweck
