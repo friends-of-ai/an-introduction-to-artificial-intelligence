@@ -78,7 +78,7 @@ Ferner:
 
 ## 3. Fragen
 
-### 3.1 Wo kann man mit künstlicher Intelligenz Geld verdienen?
+### 3.1 Kann man mit künstlicher Intelligenz Geld verdienen?
 
 TODO..
 
