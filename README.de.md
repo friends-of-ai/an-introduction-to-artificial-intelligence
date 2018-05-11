@@ -181,6 +181,8 @@ Die Methoden des Machine Learnings sind vor allem dort überaus nützlich, bei d
   
 ## 8. Werkzeuge
 
+Eben entdeckt: [Liste ausgewählter Machine Learning Frameworks, Bibliotheken und Software, Englisch](https://github.com/josephmisiti/awesome-machine-learning)
+
 Frameworks und Tools, welche bei dem Thema künstliche Intelligenz unterstützen bzw. Technologien der KI nutzen:
 
 * [TensorFlow](https://www.tensorflow.org/) (Open source machine learning framework; Google)
