@@ -194,11 +194,11 @@ Frameworks und Tools, welche bei dem Thema künstliche Intelligenz unterstützen
 
 Empfohlen für den praktischen Einsatz:
 
-* [Praxiseinstieg Deep Learning](https://www.oreilly.de/buecher/12840/9783960090540-praxiseinstieg-deep-learning.html)
-* [Machine Learning – kurz & gut](https://www.oreilly.de/buecher/12870/9783960090526-machine-learning-%E2%80%93-kurz-%26-gut.html)
-* [Neuronale Netze selbst programmieren](https://www.oreilly.de/buecher/12892/9783960090434-neuronale-netze-selbst-programmieren.html)
-* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com) (Free online book)
-* [Deep Learning](http://www.deeplearningbook.org) (A MIT press book)
+* [Praxiseinstieg Deep Learning](https://www.oreilly.de/buecher/12840/9783960090540-praxiseinstieg-deep-learning.html) (Lehrbuch, Deutsch)
+* [Machine Learning – kurz & gut](https://www.oreilly.de/buecher/12870/9783960090526-machine-learning-%E2%80%93-kurz-%26-gut.html) (Lehrbuch, Deutsch)
+* [Neuronale Netze selbst programmieren](https://www.oreilly.de/buecher/12892/9783960090434-neuronale-netze-selbst-programmieren.html) (Lehrbuch, Deutsch)
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com) (Freies Online Buch, Englisch)
+* [Deep Learning](http://www.deeplearningbook.org) (A MIT Online Buch, Englisch)
 
 ## C. Quellen
 
