@@ -80,7 +80,7 @@ Ferner:
 
 ### 3.1 Kann man mit künstlicher Intelligenz Geld verdienen?
 
-Es ist schwierig Zukunftsprognosen in diesem Bereich zu machen. Zu sagen, was nächster Zeit alles möglich sein wird. Fakt ist: Es fließt momentan eine Menge Kapital in Forschungsprojekte und Firmen, die sich auf Vernetzung und maschinelles Lernen spezialisiert haben. Facebook und Co. machen uns vor, was mit dieser Technik möglich ist, aber auch welche Gefahren uns erwarten.
+Es ist schwierig Zukunftsprognosen in diesem Bereich zu machen. Zu sagen, was nächster Zeit alles möglich sein wird und in welchem Ausmaß dies unser Leben bereichern wird. Fakt ist: Es fließt momentan eine Menge Kapital in Forschungsprojekte und Firmen, die sich auf Vernetzung und maschinelles Lernen spezialisiert haben. Facebook und Co. machen uns vor, was mit dieser Technik möglich ist, aber auch welche Gefahren uns erwarten.
 
 ### 3.2 Rationale Entscheidungen vs. intuitive Denkweise: Kann man Maschinen Intuition beibringen?
 
