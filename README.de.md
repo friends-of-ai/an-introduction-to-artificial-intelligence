@@ -2,7 +2,7 @@
 
 *(auch KI, artificial intelligence, AI, etc.)*
 
-**Hinweis:** Dieses Tutorial erhebt nicht den Anspruch vollständig zu sein. Vielmehr wird hier der Ansatz des schnellen Einstiegs in das Thema verbunden mit praktischen Beispielen verfolgt. Korrekturen und Erweiterungen sind willkommen.
+**Hinweis:** Dieses Tutorial erhebt nicht den Anspruch vollständig zu sein. Vielmehr wird hier der Ansatz des schnellen Einstiegs in das Thema verbunden mit praktischen Beispielen verfolgt. Des Weiteren teile ich meine persönlichen Gedanke, welche nicht unbeding "richtig" sein müssen. Korrekturen, Erweiterungen und Kritik sind willkommen.
 
 Weitere praktische Beispiele befinden sich im Kapitel: [A. Weiterführende Tutorials](#user-content-a-weiterführende-tutorials).
 
