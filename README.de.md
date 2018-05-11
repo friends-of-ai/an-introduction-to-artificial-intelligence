@@ -86,9 +86,9 @@ TODO..
 
 Quelle: [Komplexe Entscheidungssituationen: Intuitiv beurteilen, rational begründen](https://www.wissensdialoge.de/komplexe-entscheidungssituationen-intuition)
 
-**Rationales Entscheiden:** bewusst/schlussfolgernd, affektfrei, verbal, analytisch/zerteilend, „aktives“ Denken, wird als kontrollierbar erlebt
+**Rationales Entscheiden (eher Maschinen-typisch):** bewusst/schlussfolgernd, affektfrei, verbal, analytisch/zerteilend, „aktives“ Denken, wird als kontrollierbar erlebt
 
-**Intuitives Denken:** automatisch/unbewusst, emotionsbasiert, nonverbal, ganzheitlich, „passive“, spontane Gedanken/Eingebungen
+**Intuitives Denken (eher Mensch-typisch):** automatisch/unbewusst, emotionsbasiert, nonverbal, ganzheitlich, „passive“, spontane Gedanken/Eingebungen
 
 Erfolgreiche KI-Systeme basieren auf maschinellem Lernen. Sie lernen von Daten, welche ursprünglich von Menschen (intuitiv) klassifiziert wurden. Sie handeln deshalb auf eine statistische Art und Weise von Daten, welche von Menschen ursprünglich intuitiv erzeugt wurden und "ahmen" dieses Verhalten nach. Intuition wird also in diesem Fall simuliert. Die Systeme sind jedoch genau gesehen nicht wirklich intuitiv. Die Grundlage der Entscheidung sind immer noch deterministische Algorithmen und Ablaufvorschriften. Die Klassifizierung unbekannter Objekte muss nach dem Lernprozess nicht mehr zwangsläufig "richtig" sein. Eine Kontrolle und letztendliche Entscheidung sollte (aktuell) noch immer beim Menschen bleiben. Letztendlich bleibt bei diesem Thema die Frage, ob die simulierte Intuition der Maschine für die Erreichung des gewünschten Zieles ausreicht oder eben nicht.
 
