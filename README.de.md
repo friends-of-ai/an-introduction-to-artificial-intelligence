@@ -198,7 +198,7 @@ Empfohlen für den praktischen Einsatz:
 * [Machine Learning – kurz & gut](https://www.oreilly.de/buecher/12870/9783960090526-machine-learning-%E2%80%93-kurz-%26-gut.html) (Lehrbuch, Deutsch)
 * [Neuronale Netze selbst programmieren](https://www.oreilly.de/buecher/12892/9783960090434-neuronale-netze-selbst-programmieren.html) (Lehrbuch, Deutsch)
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com) (Freies Online Buch, Englisch)
-* [Deep Learning](http://www.deeplearningbook.org) (A MIT Online Buch, Englisch)
+* [Deep Learning](http://www.deeplearningbook.org) (Ein MIT Online Buch, Englisch)
 * [Ein kleiner Überblick über Neuronale Netze](http://www.dkriesel.com/science/neural_networks) (Freies eBook, Deutsch, Englisch)
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) (Liste ausgewählter Machine Learning Frameworks, Bibliotheken und Software, Englisch)
 * [The most cited deep learning papers](https://github.com/terryum/awesome-deep-learning-papers) (Liste der bekanntesten Paper zum Thema Deep Learning, Englisch)
