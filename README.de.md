@@ -76,15 +76,13 @@ Ferner:
 * [Graphen-, Netzwerktheorie](https://de.wikipedia.org/wiki/Graphentheorie)
 * [technologische Singularität](https://de.wikipedia.org/wiki/Technologische_Singularit%C3%A4t)
 
-## 3. ...
+## 3. Fragen
+
+### 3.1 Wo kann man mit künstlicher Intelligenz Geld verdienen?
 
 TODO..
 
-## 4. Wo kann man mit künstlicher Intelligenz Geld verdienen?
-
-TODO..
-
-## 5. Verwendungszweck
+## 4. Verwendungszweck
 
 Was ist derzeit möglich? Was nicht?
 
@@ -111,7 +109,7 @@ Was ist derzeit möglich? Was nicht?
   * *"Computer! Ich habe all meine Dokumente in der Cloud hochgeladen. Zugangsdaten findest du auf meinem USB-Stick, welchen ich dir am PC angesteckt habe. Bitte erledige nun meine Steuererklärung!"*
 * **Kurzum:** [Technologische Singularität](https://de.wikipedia.org/wiki/Technologische_Singularit%C3%A4t) ist derzeit noch nicht möglich. Sprich das intelligente Verknüpfen "aller" Domänen in eine Maschine. *Wie funktioniert die Welt?*
 
-## 6. Anwendungen
+## 5. Anwendungen
 
 Anwendungen, welche regen Gebrauch aus dem Gebiet der künstlichen Intelligenz machen:
 
@@ -126,9 +124,9 @@ Anwendungen, welche regen Gebrauch aus dem Gebiet der künstlichen Intelligenz m
 * [Amazon DSSTNE](https://github.com/amzn/amazon-dsstne) (Alexa)
 * [Google Photo](https://photos.google.com) ("Smarte" Bilderkennung)
 
-## 7. Chancen, Gefahren und Probleme der künstlichen Intelligenz
+## 6. Chancen, Gefahren und Probleme der künstlichen Intelligenz
 
-### 7.1. Chancen
+### 6.1 Chancen
 
 * Fehlerquoten durch Unachtsamkeit werden verringert (diese Fehlerart gibt es beim Computer praktisch nicht)
   * [An den meisten Unfällen sind Menschen schuld @ DIE WELT](https://www.welt.de/sonderthemen/noahberlin/article165739463/An-den-meisten-Unfaellen-sind-Menschen-schuld.html)
@@ -140,21 +138,21 @@ Anwendungen, welche regen Gebrauch aus dem Gebiet der künstlichen Intelligenz m
   * Data Scientists
   * etc. ..
 
-### 7.2. Gefahren
+### 6.2 Gefahren
 
 * Arbeiten können durch Maschinen vollständig autonom übernommen werden: bestimmte Berufe werden überflüssig
   * [Droht mit Digitalisierung jedem zweiten Job das Aus? @ DIE WELT](https://www.welt.de/wirtschaft/webwelt/article150856398/Droht-mit-Digitalisierung-jedem-zweiten-Job-das-Aus.html)
   * [Diese KI könnte auch Foto-Experten den Job kosten @ mobilegeeks.com](https://www.mobilegeeks.de/news/google-creatism-diese-ki-koennte-auch-foto-experten-den-job-kosten)
 * Mögliche Fehlschlüsse von Berechnungen bzw. nicht alle Berechnungen sind transparent: "Ist der Betroffene wirklich nicht kreditwürdig?"
 
-### 7.3. Probleme
+### 6.3 Probleme
 
 * Maschinen kennen keine Ethik. Sie muss vorher "implementiert" werden. Affekthandlungen gibt es nicht. Wie soll die Maschine bei einem unvermeidbarem Unfall reagieren? Wie ist die Schuldfrage bei Schäden bzw. Todesfällen?
   * [Der Todesalgorithmus @ ZEIT ONLINE](https://www.zeit.de/kultur/2017-09/kuenstliche-intelligenz-algorithmus-spam-autonomes-fahren)
   
-## 8. Künstliche Intelligenz aus Programmierersicht
+## 7. Künstliche Intelligenz aus Programmierersicht
 
-### 8.1. Am Beispiel des Machine Learnings
+### 7.1 Am Beispiel des Machine Learnings
 
 Bei klassischen Programmierverfahren ist die Implementierung des Modells bekannt. Das Modell hat die Aufgabe Eingaben direkt in eine Ausgabe umzuwandeln:
 
@@ -170,7 +168,7 @@ Da oft nicht bekannt ist, wie das Modell entstanden ist (und es meist auch gar n
 
 Die Methoden des Machine Learnings sind vor allem dort überaus nützlich, bei dem der Aufwand für die direkte Bestimmung des Modells unmöglich ist bzw. einen hohen Aufwand erfordert. **Beispiel:** Um ein Objekt auf einem Bild zu erkennen, wird man keinen Algorithmus direkt dafür bestimmen können, sondern auf die Methoden des Machine Learnings zurückgreifen. Entsprechende Trainingsdaten vorausgesetzt ist der Aufwand (die Kosten) für die technische Implementierung unter zuhilfenahme entsprechender technischen Ressourcen sehr viel geringer, als der Versuch das Modell direkt zu implementieren. 
   
-## 9. Werkzeuge
+## 8. Werkzeuge
 
 Frameworks und Tools, welche bei dem Thema künstliche Intelligenz unterstützen bzw. Technologien der KI nutzen:
 
