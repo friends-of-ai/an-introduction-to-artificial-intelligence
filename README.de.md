@@ -2,7 +2,7 @@
 
 *(auch KI, artificial intelligence, AI, etc.)*
 
-**Hinweis:** Dieses Tutorial erhebt nicht den Anspruch vollständig zu sein. Vielmehr wird hier der Ansatz des schnellen Einstiegs in das Thema verbunden mit praktischen Beispielen verfolgt. Des Weiteren teile ich meine persönlichen Gedanke, welche nicht unbeding "richtig" sein müssen. Korrekturen, Erweiterungen und Kritik sind willkommen.
+**Hinweis:** Dieses Tutorial erhebt nicht den Anspruch vollständig zu sein. Vielmehr wird hier der Ansatz des schnellen Einstiegs in das Thema verbunden mit praktischen Beispielen verfolgt. Des Weiteren teile ich meine persönlichen Gedanken, welche nicht unbeding "richtig" sein müssen. Korrekturen, Erweiterungen und Kritik sind willkommen.
 
 Weitere praktische Beispiele befinden sich im Kapitel: [A. Weiterführende Tutorials](#user-content-a-weiterführende-tutorials).
 
@@ -90,7 +90,7 @@ Quelle: [Komplexe Entscheidungssituationen: Intuitiv beurteilen, rational begrü
 
 **Intuitives Denken (eher Mensch-typisch):** automatisch/unbewusst, emotionsbasiert, nonverbal, ganzheitlich, „passive“, spontane Gedanken/Eingebungen
 
-Erfolgreiche KI-Systeme basieren (aktuell gesehen) auf maschinellem Lernen. Sie lernen von Daten, welche ursprünglich von Menschen (intuitiv) klassifiziert wurden. Sie handeln deshalb auf eine statistische Art und Weise von Daten, welche von Menschen ursprünglich intuitiv erzeugt wurden und "ahmen" dieses Verhalten nach bzw. setzen diesen "Gedankengang" (dieses Muster) fort. Intuition wird also in diesem Fall simuliert. Die Systeme sind jedoch genau gesehen nicht wirklich intuitiv. Die Grundlage der Entscheidung sind immer noch deterministische Algorithmen und Ablaufvorschriften. Die Klassifizierung unbekannter Objekte muss nach dem Lernprozess nicht mehr zwangsläufig "richtig" sein. Eine Kontrolle und letztendliche Entscheidung sollte (aktuell) noch immer beim Menschen bleiben. Letztendlich bleibt bei diesem Thema die Frage, ob die simulierte Intuition der Maschine für die Erreichung des gewünschten Zieles ausreicht oder eben nicht.
+Erfolgreiche KI-Systeme basieren (aktuell gesehen) auf maschinellem Lernen. Sie lernen von Daten, welche ursprünglich von Menschen (intuitiv) klassifiziert wurden. Die KI-Systeme handeln deshalb auf eine statistische Art und Weise nach diesen intuitiven Daten und "ahmen" dieses Verhalten nach bzw. setzen diesen "Gedankengang" (dieses Muster) fort. Intuition wird also in diesem Fall simuliert. Die Systeme sind jedoch genau genommen nicht wirklich intuitiv. Die Grundlage weiterer Entscheidungen sind immer noch deterministische Algorithmen und Ablaufvorschriften. Die Klassifizierung unbekannter Objekte muss nach dem Lernprozess nicht mehr zwangsläufig "richtig" sein. Eine Kontrolle und letztendliche Entscheidung sollte (aktuell) noch immer beim Menschen bleiben. Letztendlich bleibt bei diesem Thema die Frage, ob die simulierte Intuition der Maschine für die Erreichung des gewünschten Zieles ausreicht oder eben nicht.
 
 ## 4. Verwendungszweck
 
