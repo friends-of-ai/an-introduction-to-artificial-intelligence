@@ -60,8 +60,9 @@ Die Diskussionen zu diesem Thema sind zwiespältig. Sie reichen von unrealistisc
     * Deep Learning: geht einen Schritt weiter. Die entsprechenden Algorithmen werden gelernt und permanent durch Anwendung weiter verfeinert und verbessert. Vorhersagen stammen dann aus diesen automatisch gelernten Algorithmen. Die Maschine findet unter Umständen Dinge, die wir nicht gesucht / erwartet haben.
 * [(Künstliche) Neuronale Netze](https://de.wikipedia.org/wiki/K%C3%BCnstliches_neuronales_Netz)
   * Sind eine Simulierung und Nachahmung neuronaler Netze nach biologischem Vorbild
-  * Dieses Netz besteht z.B. aus unzähligen Neuronen
+  * Dieses Netz besteht z.B. aus unzähligen künstlichen Neuronen
   * Ein einzelnes (künstliches) Neuron verarbeitet verschiedene Eingangssignale und gibt (feuert) ein Ausgangssignal nach einem vordefinierten Kriterium (Schwellenwert, Häufigkeit, Muster, etc.)
+  * Technisch gesehen ist ein künstliches Neuron eine Funktion mit einer Anzahl an Parametern (die Eingangssignale) und einem Rückgabewert (Ausgangssignal). Der Rückgabewert wird durch die sogenannte Aktivierungsfunktion gesteuert.
 * [Robotik](https://de.wikipedia.org/wiki/Robotik)
   * Die Robotik ist grob gesagt die "Hardware" (Ein- und Ausgabe) der künstlichen Intelligenz
 * [Natural Language Processing (NLP)](https://en.wikipedia.org/wiki/Natural-language_processing)
