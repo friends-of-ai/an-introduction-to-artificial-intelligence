@@ -152,7 +152,7 @@ Anwendungen, welche regen Gebrauch aus dem Gebiet der künstlichen Intelligenz m
 ### 6.2 Gefahren
 
 * Neue Arten von "Hackerangriffen"
-  * Kleine Veränderungen brachten ein System für maschinelles Lernen dazu, ein Geschwindigkeitsbegrenzungsschild fälschlicherweise als Stopschild zu erkennen: [Forscher führen Bilderkennung mit manipulierten Schildern in die Irre](https://www.heise.de/newsticker/meldung/Autonome-Autos-Forscher-fuehren-Bilderkennung-mit-manipulierten-Schildern-in-die-Irre-3974483.html)
+  * Kleine Veränderungen brachten ein System für maschinelles Lernen dazu ein Geschwindigkeitsbegrenzungsschild auf der Autobahn fälschlicherweise als Stopschild zu erkennen: [Forscher führen Bilderkennung mit manipulierten Schildern in die Irre](https://www.heise.de/newsticker/meldung/Autonome-Autos-Forscher-fuehren-Bilderkennung-mit-manipulierten-Schildern-in-die-Irre-3974483.html)
 * Arbeiten können durch Maschinen vollständig autonom übernommen werden: bestimmte Berufe werden überflüssig
   * [Droht mit Digitalisierung jedem zweiten Job das Aus? @ DIE WELT](https://www.welt.de/wirtschaft/webwelt/article150856398/Droht-mit-Digitalisierung-jedem-zweiten-Job-das-Aus.html)
   * [Diese KI könnte auch Foto-Experten den Job kosten @ mobilegeeks.com](https://www.mobilegeeks.de/news/google-creatism-diese-ki-koennte-auch-foto-experten-den-job-kosten)
