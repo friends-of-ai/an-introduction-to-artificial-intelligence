@@ -172,6 +172,7 @@ Anwendungen, welche regen Gebrauch aus dem Gebiet der künstlichen Intelligenz m
   * [Burger King kapert Google Home](https://www.heise.de/newsticker/meldung/Werbespot-Burger-King-kapert-Google-Home-3685167.html)
 * Fehlerintpretation Bilderkennung
   * [Buntes Brillengestell soll zuverlässig Gesichtserkennung austricksen](https://www.heise.de/newsticker/meldung/Buntes-Brillengestell-soll-zuverlaessig-Gesichtserkennung-austricksen-3456711.html)
+  * [Tödlicher Tesla-Unfall: Autopilot hielt Lastwagen-Anhänger für hohes Schild](https://www.heise.de/newsticker/meldung/Toedlicher-Tesla-Unfall-Autopilot-hielt-Lastwagen-Anhaenger-fuer-hohes-Schild-3253449.html)
   
 ## 7. Künstliche Intelligenz aus Programmierersicht
 
