@@ -103,7 +103,7 @@ Was ist derzeit möglich? Was nicht?
   * Trennung interessanter Daten von weniger interessanten Daten
 * Erkennung von Mustern
   * Texte (automatisierte Übersetzungen, Sentimentanalysen, Emotionsanalysen, Autovervollständigung und Korrekturvorschläge bei Suchvorgängen, etc.)
-  * Bilder (ähnliche Bilder, Objekterkennung)
+  * Bilder (ähnliche Bilder, Objekterkennung, Gesichtserkennung)
   * Tonspuren (Spracherkennung, NLP)
   * Produkte ("andere User kauften auch")
   * Verhalten (Individuelle Aussteuerung von Werbung, Handlungsempfehlungen auf Basis einer Wissensdatenbank, Bonitätsberechnung der Banken, etc.)
