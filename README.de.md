@@ -173,6 +173,7 @@ Anwendungen, welche regen Gebrauch aus dem Gebiet der künstlichen Intelligenz m
 * Fehlerintpretation Bilderkennung
   * [Buntes Brillengestell soll zuverlässig Gesichtserkennung austricksen](https://www.heise.de/newsticker/meldung/Buntes-Brillengestell-soll-zuverlaessig-Gesichtserkennung-austricksen-3456711.html)
   * [Tödlicher Tesla-Unfall: Autopilot hielt Lastwagen-Anhänger für Verkehrsschild](https://www.heise.de/newsticker/meldung/Toedlicher-Tesla-Unfall-Autopilot-hielt-Lastwagen-Anhaenger-fuer-hohes-Schild-3253449.html)
+  * [Tesla Fahrzeug hielt weiße Flanke eines Sattelzugs für einen taghellen Himmel](http://www.spiegel.de/auto/aktuell/tesla-toedlicher-unfall-mit-autopilot-in-den-usa-a-1100736.html)
   
 ## 7. Künstliche Intelligenz aus Programmierersicht
 
