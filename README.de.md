@@ -165,9 +165,11 @@ Anwendungen, welche regen Gebrauch aus dem Gebiet der künstlichen Intelligenz m
   
 ### 6.4. Fehlschläge
   
-* Fehlinterpretation Spracheingabe
+* Fehlinterpretation Spracherkennung
   * [Nachrichtensprecher löst Massenbestellung aus](https://www.heise.de/newsticker/meldung/Amazon-Echo-Nachrichtensprecher-loest-Massenbestellung-aus-3591039.html)
   * [Burger King kapert Google Home](https://www.heise.de/newsticker/meldung/Werbespot-Burger-King-kapert-Google-Home-3685167.html)
+* Fehlerintpretation Bilderkennung
+  * [Buntes Brillengestell soll zuverlässig Gesichtserkennung austricksen](https://www.heise.de/newsticker/meldung/Buntes-Brillengestell-soll-zuverlaessig-Gesichtserkennung-austricksen-3456711.html)
   
 ## 7. Künstliche Intelligenz aus Programmierersicht
 
