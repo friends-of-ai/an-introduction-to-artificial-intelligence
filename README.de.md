@@ -160,6 +160,8 @@ Anwendungen, welche regen Gebrauch aus dem Gebiet der künstlichen Intelligenz m
 
 * Maschinen kennen keine Ethik. Sie muss vorher "implementiert" werden. Affekthandlungen gibt es nicht. Wie soll die Maschine bei einem unvermeidbarem Unfall reagieren? Wie ist die Schuldfrage bei Schäden bzw. Todesfällen?
   * [Der Todesalgorithmus @ ZEIT ONLINE](https://www.zeit.de/kultur/2017-09/kuenstliche-intelligenz-algorithmus-spam-autonomes-fahren)
+* Fehlimplementierungen führen zu unerwarteten Ergebnissen
+  * [Facebook muss zwei Bots "töten"](https://www.jetzt.de/digital/facebook-stoppt-kuenstliche-intelligenz-nachdem-sie-eigene-sprache-entwickelt)
   
 ## 7. Künstliche Intelligenz aus Programmierersicht
 
