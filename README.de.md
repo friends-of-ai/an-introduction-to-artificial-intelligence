@@ -135,7 +135,7 @@ Anwendungen, welche regen Gebrauch aus dem Gebiet der künstlichen Intelligenz m
 * [Amazon DSSTNE](https://github.com/amzn/amazon-dsstne) (Alexa)
 * [Google Photo](https://photos.google.com) ("Smarte" Bilderkennung)
 
-## 6. Chancen, Gefahren und Probleme der künstlichen Intelligenz
+## 6. Chancen, Gefahren, Probleme, Fehlschläge der künstlichen Intelligenz
 
 ### 6.1 Chancen
 
@@ -162,6 +162,12 @@ Anwendungen, welche regen Gebrauch aus dem Gebiet der künstlichen Intelligenz m
   * [Der Todesalgorithmus @ ZEIT ONLINE](https://www.zeit.de/kultur/2017-09/kuenstliche-intelligenz-algorithmus-spam-autonomes-fahren)
 * Fehlimplementierungen führen zu unerwarteten Ergebnissen
   * [Facebook muss zwei Bots "töten"](https://www.jetzt.de/digital/facebook-stoppt-kuenstliche-intelligenz-nachdem-sie-eigene-sprache-entwickelt)
+  
+### 6.4. Fehlschläge
+  
+* Fehlinterpretation Spracheingabe
+  * [Nachrichtensprecher löst Massenbestellung aus](https://www.heise.de/newsticker/meldung/Amazon-Echo-Nachrichtensprecher-loest-Massenbestellung-aus-3591039.html)
+  * [Burger King kapert Google Home](https://www.heise.de/newsticker/meldung/Werbespot-Burger-King-kapert-Google-Home-3685167.html)
   
 ## 7. Künstliche Intelligenz aus Programmierersicht
 
