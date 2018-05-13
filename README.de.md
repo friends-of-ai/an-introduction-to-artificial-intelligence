@@ -136,9 +136,13 @@ Anwendungen, welche regen Gebrauch aus dem Gebiet der künstlichen Intelligenz m
 * [Amazon DSSTNE](https://github.com/amzn/amazon-dsstne) (Alexa)
 * [Google Photo](https://photos.google.com) ("Smarte" Bilderkennung)
 
-## 6. Chancen, Gefahren, Probleme, Fehlschläge der künstlichen Intelligenz
+## 6. Videos
 
-### 6.1 Chancen
+* [MarI/O - Machine Learning for Video Games](https://www.youtube.com/watch?v=qv6UVOQ0F44) (KI spielt Computerspiel)
+
+## 7. Chancen, Gefahren, Probleme, Fehlschläge der künstlichen Intelligenz
+
+### 7.1 Chancen
 
 * Fehlerquoten durch Unachtsamkeit werden verringert (diese Fehlerart gibt es beim Computer praktisch nicht)
   * [An den meisten Unfällen sind Menschen schuld @ DIE WELT](https://www.welt.de/sonderthemen/noahberlin/article165739463/An-den-meisten-Unfaellen-sind-Menschen-schuld.html)
@@ -150,7 +154,7 @@ Anwendungen, welche regen Gebrauch aus dem Gebiet der künstlichen Intelligenz m
   * Data Scientists
   * etc. ..
 
-### 6.2 Gefahren
+### 7.2 Gefahren
 
 * Neue Arten von "Hackerangriffen"
   * Kleine Veränderungen bringen ein machinell lernendes System dazu ein Geschwindigkeitsbegrenzungsschild auf der Autobahn fälschlicherweise als Stopschild zu erkennen: [Forscher führen Bilderkennung mit manipulierten Schildern in die Irre](https://www.heise.de/newsticker/meldung/Autonome-Autos-Forscher-fuehren-Bilderkennung-mit-manipulierten-Schildern-in-die-Irre-3974483.html)
@@ -159,14 +163,14 @@ Anwendungen, welche regen Gebrauch aus dem Gebiet der künstlichen Intelligenz m
   * [Diese KI könnte auch Foto-Experten den Job kosten @ mobilegeeks.com](https://www.mobilegeeks.de/news/google-creatism-diese-ki-koennte-auch-foto-experten-den-job-kosten)
 * Mögliche Fehlschlüsse von Berechnungen bzw. nicht alle Berechnungen sind transparent: "Ist der Betroffene wirklich nicht kreditwürdig?"
 
-### 6.3 Probleme
+### 7.3 Probleme
 
 * Maschinen kennen keine Ethik. Sie muss vorher "implementiert" werden. Affekthandlungen gibt es nicht. Wie soll die Maschine bei einem unvermeidbarem Unfall reagieren? Wie ist die Schuldfrage bei Schäden bzw. Todesfällen?
   * [Der Todesalgorithmus @ ZEIT ONLINE](https://www.zeit.de/kultur/2017-09/kuenstliche-intelligenz-algorithmus-spam-autonomes-fahren)
 * Fehlimplementierungen führen zu unerwarteten Ergebnissen
   * [Facebook muss zwei Bots "töten"](https://www.jetzt.de/digital/facebook-stoppt-kuenstliche-intelligenz-nachdem-sie-eigene-sprache-entwickelt)
   
-### 6.4. Fehlschläge
+### 7.4. Fehlschläge
   
 * Fehlinterpretation Spracherkennung
   * [Nachrichtensprecher löst Massenbestellung aus](https://www.heise.de/newsticker/meldung/Amazon-Echo-Nachrichtensprecher-loest-Massenbestellung-aus-3591039.html)
@@ -176,9 +180,9 @@ Anwendungen, welche regen Gebrauch aus dem Gebiet der künstlichen Intelligenz m
   * [Tödlicher Tesla-Unfall: Autopilot hielt Lastwagen-Anhänger für Verkehrsschild](https://www.heise.de/newsticker/meldung/Toedlicher-Tesla-Unfall-Autopilot-hielt-Lastwagen-Anhaenger-fuer-hohes-Schild-3253449.html)
   * [Tesla Fahrzeug hielt weiße Flanke eines Sattelzugs für einen taghellen Himmel](http://www.spiegel.de/auto/aktuell/tesla-toedlicher-unfall-mit-autopilot-in-den-usa-a-1100736.html)
   
-## 7. Künstliche Intelligenz aus Programmierersicht
+## 8. Künstliche Intelligenz aus Programmierersicht
 
-### 7.1 Am Beispiel des Machine Learnings
+### 8.1 Am Beispiel des Machine Learnings
 
 Bei klassischen Programmierverfahren ist die Implementierung des Modells bekannt. Das Modell hat die Aufgabe Eingaben direkt in eine Ausgabe umzuwandeln:
 
@@ -194,7 +198,7 @@ Da oft nicht bekannt ist, wie das Modell entstanden ist (und es meist auch gar n
 
 Die Methoden des Machine Learnings sind vor allem dort überaus nützlich, bei dem der Aufwand für die direkte Bestimmung des Modells unmöglich ist bzw. einen hohen Aufwand erfordert. **Beispiel:** Um ein Objekt auf einem Bild zu erkennen, wird man keinen Algorithmus direkt dafür bestimmen können, sondern auf die Methoden des Machine Learnings zurückgreifen. Entsprechende Trainingsdaten vorausgesetzt ist der Aufwand (die Kosten) für die technische Implementierung unter zuhilfenahme entsprechender technischen Ressourcen sehr viel geringer, als der Versuch das Modell direkt zu implementieren. 
   
-## 8. Werkzeuge
+## 9. Werkzeuge
 
 Eben entdeckt: [Liste ausgewählter Machine Learning Frameworks, Bibliotheken und Software, Englisch](https://github.com/josephmisiti/awesome-machine-learning)
 
