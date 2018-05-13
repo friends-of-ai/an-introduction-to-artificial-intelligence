@@ -142,6 +142,7 @@ Interessante Videos zum Thema künstliche Intelligenz in der Anwendung:
 
 * [MarI/O - Machine Learning for Video Games](https://www.youtube.com/watch?v=qv6UVOQ0F44) (KI spielt Computerspiel)
 * [New dog-like robot from Boston Dynamics can open doors](https://www.youtube.com/watch?v=wXxrmussq4E) (Teamwork: Robot 1 öffnet Robot 2 die Tür)
+* [Deep Learning Cars](https://www.youtube.com/watch?v=Aut32pR5PQA) (Ein neuronales Netzwerk wird trainiert am Beispiel von simulierten Modellautos)
 
 ## 7. Chancen, Gefahren, Probleme, Fehlschläge der künstlichen Intelligenz
 
