@@ -139,6 +139,7 @@ Anwendungen, welche regen Gebrauch aus dem Gebiet der künstlichen Intelligenz m
 ## 6. Videos
 
 * [MarI/O - Machine Learning for Video Games](https://www.youtube.com/watch?v=qv6UVOQ0F44) (KI spielt Computerspiel)
+* [New dog-like robot from Boston Dynamics can open doors](https://www.youtube.com/watch?v=wXxrmussq4E) (Teamwork: Robot 1 öffnet Robot 2 die Tür)
 
 ## 7. Chancen, Gefahren, Probleme, Fehlschläge der künstlichen Intelligenz
 
