@@ -6,18 +6,6 @@
 
 Weitere praktische Beispiele befinden sich im Kapitel: [A. Weiterführende Tutorials](#user-content-a-weiterführende-tutorials).
 
-<!-- 
-## 0. Inhalte
--->
-
-<!-- 
-* [1. Was ist künstliche Intelligenz?](#user-content-1-was-ist-künstliche-intelligenz)
-* [2. Unterteilung künstliche Intelligenz](#user-content-2-unterteilung-künstliche-intelligenz)
-* [3. Verwendungszweck](#user-content-verwendungszweck)
-* [4. Werkzeuge](#user-content-werkzeuge)
-* [5. Anwendungen](#user-content-anwendungen)
---> 
-
 ## 1. Was ist künstliche Intelligenz?
 
 Es gibt eine Menge von Seiten und Fachliteratur, welche das Thema allumfassend gut erklären und erläutern. Allen voran der Eintrag in der Wikipedia: [Künstliche Intelligenz](https://de.wikipedia.org/wiki/K%C3%BCnstliche_Intelligenz). Weitere Querverweise befinden sich in den Quellenangaben bzw. auch an den entsprechenden Stellen in diesem Dokument.
@@ -81,7 +69,10 @@ Ferner:
 
 ### 3.1 Kann man mit künstlicher Intelligenz Geld verdienen?
 
-Es ist schwierig Zukunftsprognosen in diesem Bereich zu machen. Zu sagen, was nächster Zeit alles möglich sein wird und in welchem Ausmaß dies unser Leben bereichern wird. Fakt ist: Es fließt momentan eine Menge Kapital in Forschungsprojekte und Firmen, die sich auf Vernetzung und maschinelles Lernen spezialisiert haben. Facebook und Co. machen uns vor, was das für unser Leben bedeutet und welche Gefahren uns erwarten werden.
+Künstliche Intelligenz kann man als eine Art Werkzeug zum Erreichen eines Zieles betrachten. So wie früher die Programmiersprache das Werkzeug war, sind es heute Themen wie Machine Learning, Deep Learning, Neuronale Netze oder eben der Oberbegriff Künstliche Intelligenz. Der Status ist, dass sich schon viele große Unternehmen und Wissenschaftszweige mit der Erforschung weiterer KI-Werkzeuge beschäftigen und Unmengen an Geld in diese Erforschung stecken. In meinen Augen ist es schwierig genau auf diesen Zug aufzuspringen und "auf sich allein gestellt" Fortschritte zu erzielen. Wie auch bei den oben genannten Programmiersprachen, wird man normalerweise auch keine eigene Programmiersprache entwickeln, um mit dieser Geld verdienen zu können.
+
+Geld verdient man "normalerweise" mit den Services rund um die Werkzeuge (z.B. die Anwendung der Programmiersprache). Im Gebiet der Künstlichen Intelligenz könnte das z.B. die Bereitstellung von Daten oder das Trainingsresultat (der Lernprozess) sein. Die Künstliche Intelligenz lebt von bereitgestellten Daten, Wissensbasen. Diese sind notwendig, um Systeme zu trainieren, dass diese erfolgreich klassifizieren können. Es geht hier um Daten aus allen Bereichen: Daten aus dem Web, aus der Industrie, dem Mittelstand, etc.
+Hier sehe ich persönlich den größten Erfolg mit diesem Thema Geld verdienen zu können.
 
 ### 3.2 Rationale Entscheidungen vs. intuitive Denkweise: Kann man Maschinen Intuition beibringen?
 
@@ -143,6 +134,7 @@ Interessante Videos zum Thema künstliche Intelligenz in der Anwendung:
 * [MarI/O - Machine Learning for Video Games](https://www.youtube.com/watch?v=qv6UVOQ0F44) (KI spielt Computerspiel)
 * [New dog-like robot from Boston Dynamics can open doors](https://www.youtube.com/watch?v=wXxrmussq4E) (Teamwork: Robot 1 öffnet Robot 2 die Tür)
 * [Deep Learning Cars](https://www.youtube.com/watch?v=Aut32pR5PQA) (Ein neuronales Netzwerk wird trainiert am Beispiel von simulierten Modellautos)
+* [Künstliche Intelligenz, Maschinelles Lernen - Entstehung, Forschungsstand & Ausblick](https://www.youtube.com/watch?v=DmXSzLlpa-w) (Prof. Dr. Stefan Wrobel im Interview)
 
 ## 7. Chancen, Gefahren, Probleme, Fehlschläge der künstlichen Intelligenz
 
@@ -165,6 +157,8 @@ Interessante Videos zum Thema künstliche Intelligenz in der Anwendung:
 * Arbeiten können durch Maschinen vollständig autonom übernommen werden: bestimmte Berufe werden überflüssig
   * [Droht mit Digitalisierung jedem zweiten Job das Aus? @ DIE WELT](https://www.welt.de/wirtschaft/webwelt/article150856398/Droht-mit-Digitalisierung-jedem-zweiten-Job-das-Aus.html)
   * [Diese KI könnte auch Foto-Experten den Job kosten @ mobilegeeks.com](https://www.mobilegeeks.de/news/google-creatism-diese-ki-koennte-auch-foto-experten-den-job-kosten)
+* Trainingsdaten müssen verlässlich sein, überwacht werden und Richtlinien gesetzt werden. Andernfalls führen diese Daten zu ungewollten Ergebnissen:
+  * [Twitter-Nutzer machen Chatbot zur Rassistin](https://www.zeit.de/digital/internet/2016-03/microsoft-tay-chatbot-twitter-rassistisch)
 * Mögliche Fehlschlüsse von Berechnungen bzw. nicht alle Berechnungen sind transparent: "Ist der Betroffene wirklich nicht kreditwürdig?"
 
 ### 7.3 Probleme
