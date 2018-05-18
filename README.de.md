@@ -6,7 +6,11 @@
 
 Weitere praktische Beispiele befinden sich im Kapitel: [A. Weiterführende Tutorials](#user-content-a-weiterführende-tutorials).
 
-## 1. Was ist künstliche Intelligenz?
+## 1. Vorraussetzung zur künstlichen Intelligenz
+
+TODO...
+
+## 2. Was ist künstliche Intelligenz?
 
 Es gibt eine Menge von Seiten und Fachliteratur, welche das Thema allumfassend gut erklären und erläutern. Allen voran der Eintrag in der Wikipedia: [Künstliche Intelligenz](https://de.wikipedia.org/wiki/K%C3%BCnstliche_Intelligenz). Weitere Querverweise befinden sich in den Quellenangaben bzw. auch an den entsprechenden Stellen in diesem Dokument.
 
@@ -18,13 +22,13 @@ Verändert hat sich heute die Herangehensweise an das Thema. Was vor einigen Jah
 
 **Hinweis:** Nicht alle auftauchenden Themen unterhalb der künstlichen Intelligenz müssen zwangsweise mit den Begriffen der (menschlichen bzw. "echten") Intelligenz korrelieren (Stichwort: Big Data, etc.). Dennoch dürfen sie der künstlichen Intelligenz zugeordnet werden. Oft vermengen sich hier Themen beider Teilbereiche so wie sich der Begriff Intelligenz auch nicht eindeutig definieren lässt.
 
-### 1.1 Schwache künstliche Intelligenz
+### 2.1 Schwache künstliche Intelligenz
 
 **Zusammengefasst:** Alle heute existierenden Systeme und Vorgehensweisen fallen unter die Kategorie der schwachen künstlichen Intelligenz.
 
 Schwache künstliche Intelligenz ist auf die Erfüllung klar definierter Aufgaben (Domänen) ausgerichtet. Z.B.: Erkennung von Mustern definierter Aufgabenstellungen, Klassifizierung vorgegebener Objekte, etc. Sie simuliert lediglich Intelligenz und nutzt dabei die Vorteile der Rechentechnik gegenüber dem menschlichem Gehirn: Berechnen und Probieren verschiedener Varianten in einem Bruchteil der Zeit und Ausgabe der "intelligentesten" Lösung (z.B. kürzester Weg von A nach B). Sie sind jedoch nicht intelligent im übertragenen Sinne.
 
-### 1.2 Starke künstliche Intelligenz
+### 2.2 Starke künstliche Intelligenz
 
 **Zusammengefasst:** Algorithmen der Kategorie "starke künstliche Intelligenz" gibt es bisher noch nicht.
 
@@ -32,7 +36,7 @@ Das Ziel der starken künstlichen Intelligenz ist es Maschinen dazu zu bringen a
 
 Die Diskussionen zu diesem Thema sind zwiespältig. Sie reichen von unrealistisch bis realistisch in ein paar Jahrzehnten. Die Entwicklung neuartiger Computerarchitekturen (Quantencomputer) kann einen entscheidenden Beitrag zur Lösung dieses Ziel beitragen.
 
-## 2. Buzzwords der künstlichen Intelligenz (Unterteilung der KI)
+## 3. Buzzwords der künstlichen Intelligenz (Unterteilung der KI)
 
 * [Künstliche Intelligenz](https://de.wikipedia.org/wiki/K%C3%BCnstliche_Intelligenz)
   * Künstliche Intelligenz ist der Oberbegriff zur Beschreibung aller Forschungsfelder, die sich mit der Erbringung menschlicher Intelligenzleistungen durch Maschinen beschäftigen
@@ -65,15 +69,15 @@ Ferner:
 * [Graphen-, Netzwerktheorie](https://de.wikipedia.org/wiki/Graphentheorie)
 * [technologische Singularität](https://de.wikipedia.org/wiki/Technologische_Singularit%C3%A4t)
 
-## 3. Fragen
+## 4. Fragen
 
-### 3.1 Kann man mit künstlicher Intelligenz Geld verdienen?
+### 4.1 Kann man mit künstlicher Intelligenz Geld verdienen?
 
 Künstliche Intelligenz kann man als eine Art Werkzeug zum Erreichen eines Zieles betrachten. So wie früher die Programmiersprache das Werkzeug war, sind es heute Themen wie Machine Learning, Deep Learning, Neuronale Netze oder eben der Oberbegriff Künstliche Intelligenz. Der Status ist, dass sich schon viele große Unternehmen und Wissenschaftszweige mit der Erforschung weiterer KI-Werkzeuge beschäftigen und Unmengen an Geld in diese Erforschung stecken. In meinen Augen ist es schwierig genau auf diesen Zug aufzuspringen und "auf sich allein gestellt" Fortschritte zu erzielen. Ausnahmen bestätigen die Regel ;). Wie auch bei den oben genannten Programmiersprachen, wird man normalerweise auch keine eigene Programmiersprache entwickeln, um mit dieser Geld verdienen zu können.
 
 Geld verdient man "normalerweise" mit den Services rund um die Werkzeuge (z.B. die Anwendung der Programmiersprache). Im Gebiet der Künstlichen Intelligenz könnte das z.B. die Bereitstellung von Daten oder das Trainingsresultat (der Lernprozess) sein. Die Künstliche Intelligenz lebt von bereitgestellten Daten, Wissensbasen. Diese sind notwendig, um Systeme zu trainieren, dass diese erfolgreich klassifizieren können. Es geht hier um Daten aus allen Bereichen: Daten aus dem Web, aus der Industrie, dem Mittelstand, etc. Diese zur Verfügung zu stellen. Es geht um die Anwendung der KI Methoden und mit diesen neue Services und Anwendung zu erstellen. Hier sehe ich persönlich den größten Erfolg mit diesem Thema Geld verdienen zu können.
 
-### 3.2 Rationale Entscheidungen vs. intuitive Denkweise: Kann man Maschinen Intuition beibringen?
+### 4.2 Rationale Entscheidungen vs. intuitive Denkweise: Kann man Maschinen Intuition beibringen?
 
 **Rationales Entscheiden (eher Maschinen-typisch):** bewusst/schlussfolgernd, affektfrei, verbal, analytisch/zerteilend, „aktives“ Denken, wird als kontrollierbar erlebt
 
@@ -85,7 +89,7 @@ Die große Frage ist: Kann man die rationalen Entscheidungen eines Menschen mit 
 
 Eine andere Herangehensweise könnte sein, dass erfolgreiche KI-Systeme (aktuell gesehen) auf maschinellem Lernen basieren. Sie lernen also von Daten, welche ursprünglich von Menschen (intuitiv) klassifiziert wurden. Anders ausgedrückt handeln diese KI-Systeme deshalb auf eine statistische Art und Weise nach diesen intuitiven Daten und "ahmen" das Verhalten des Menschen nach bzw. setzen dessen "Gedankengang" (dieses Muster) fort. Intuition wird also in diesem Fall simuliert. Die Systeme sind jedoch genau genommen nicht wirklich intuitiv. Die Grundlage weiterer Entscheidungen sind immer noch deterministische Algorithmen und Ablaufvorschriften. Die Klassifizierung unbekannter Objekte muss je nach Qualität des Lernprozesses nicht mehr zwangsläufig "richtig" sein. Eine Kontrolle und letztendliche Entscheidung sollte (aktuell) noch immer beim Menschen bleiben. Zu guter Letzt bleibt bei diesem Thema die Frage, ob die simulierte Intuition der Maschine für die Erreichung des gewünschten Zieles ausreicht oder eben nicht.
 
-## 4. Verwendungszweck
+## 5. Verwendungszweck
 
 Was ist derzeit möglich? Was nicht?
 
@@ -112,7 +116,7 @@ Was ist derzeit möglich? Was nicht?
   * *"Computer! Ich habe all meine Dokumente in der Cloud hochgeladen. Zugangsdaten findest du auf meinem USB-Stick, welchen ich dir am PC angesteckt habe. Bitte erledige nun meine Steuererklärung!"*
 * **Kurzum:** [Technologische Singularität](https://de.wikipedia.org/wiki/Technologische_Singularit%C3%A4t) ist derzeit noch nicht möglich. Sprich das intelligente Verknüpfen "aller" Domänen in eine Maschine. *Wie funktioniert die Welt?*
 
-## 5. Anwendungen
+## 6. Anwendungen
 
 Anwendungen, welche regen Gebrauch aus dem Gebiet der künstlichen Intelligenz machen:
 
@@ -127,7 +131,7 @@ Anwendungen, welche regen Gebrauch aus dem Gebiet der künstlichen Intelligenz m
 * [Amazon DSSTNE](https://github.com/amzn/amazon-dsstne) (Alexa)
 * [Google Photo](https://photos.google.com) ("Smarte" Bilderkennung)
 
-## 6. Videos
+## 7. Videos
 
 Interessante Videos zum Thema künstliche Intelligenz in der Anwendung:
 
@@ -136,9 +140,9 @@ Interessante Videos zum Thema künstliche Intelligenz in der Anwendung:
 * [Deep Learning Cars](https://www.youtube.com/watch?v=Aut32pR5PQA) (Ein neuronales Netzwerk wird trainiert am Beispiel von simulierten Modellautos)
 * [Künstliche Intelligenz, Maschinelles Lernen - Entstehung, Forschungsstand & Ausblick](https://www.youtube.com/watch?v=DmXSzLlpa-w) (Prof. Dr. Stefan Wrobel im Interview)
 
-## 7. Chancen, Gefahren, Probleme, Fehlschläge der künstlichen Intelligenz
+## 8. Chancen, Gefahren, Probleme, Fehlschläge der künstlichen Intelligenz
 
-### 7.1 Chancen
+### 8.1 Chancen
 
 * Fehlerquoten durch Unachtsamkeit werden verringert (diese Fehlerart gibt es beim Computer praktisch nicht)
   * [An den meisten Unfällen sind Menschen schuld @ DIE WELT](https://www.welt.de/sonderthemen/noahberlin/article165739463/An-den-meisten-Unfaellen-sind-Menschen-schuld.html)
@@ -150,7 +154,7 @@ Interessante Videos zum Thema künstliche Intelligenz in der Anwendung:
   * Data Scientists
   * etc. ..
 
-### 7.2 Gefahren
+### 8.2 Gefahren
 
 * Neue Arten von "Hackerangriffen"
   * Kleine Veränderungen bringen ein machinell lernendes System dazu ein Geschwindigkeitsbegrenzungsschild auf der Autobahn fälschlicherweise als Stopschild zu erkennen: [Forscher führen Bilderkennung mit manipulierten Schildern in die Irre](https://www.heise.de/newsticker/meldung/Autonome-Autos-Forscher-fuehren-Bilderkennung-mit-manipulierten-Schildern-in-die-Irre-3974483.html)
@@ -161,14 +165,14 @@ Interessante Videos zum Thema künstliche Intelligenz in der Anwendung:
   * [Twitter-Nutzer machen Chatbot zur Rassistin](https://www.zeit.de/digital/internet/2016-03/microsoft-tay-chatbot-twitter-rassistisch)
 * Mögliche Fehlschlüsse von Berechnungen bzw. nicht alle Berechnungen sind transparent: "Ist der Betroffene wirklich nicht kreditwürdig?"
 
-### 7.3 Probleme
+### 8.3 Probleme
 
 * Maschinen kennen keine Ethik. Sie muss vorher "implementiert" werden. Affekthandlungen gibt es nicht. Wie soll die Maschine bei einem unvermeidbarem Unfall reagieren? Wie ist die Schuldfrage bei Schäden bzw. Todesfällen?
   * [Der Todesalgorithmus @ ZEIT ONLINE](https://www.zeit.de/kultur/2017-09/kuenstliche-intelligenz-algorithmus-spam-autonomes-fahren)
 * Fehlimplementierungen führen zu unerwarteten Ergebnissen
   * [Facebook muss zwei Bots "töten"](https://www.jetzt.de/digital/facebook-stoppt-kuenstliche-intelligenz-nachdem-sie-eigene-sprache-entwickelt)
   
-### 7.4. Fehlschläge
+### 8.4. Fehlschläge
   
 * Fehlinterpretation Spracherkennung
   * [Nachrichtensprecher löst Massenbestellung aus](https://www.heise.de/newsticker/meldung/Amazon-Echo-Nachrichtensprecher-loest-Massenbestellung-aus-3591039.html)
@@ -178,9 +182,9 @@ Interessante Videos zum Thema künstliche Intelligenz in der Anwendung:
   * [Tödlicher Tesla-Unfall: Autopilot hielt Lastwagen-Anhänger für Verkehrsschild](https://www.heise.de/newsticker/meldung/Toedlicher-Tesla-Unfall-Autopilot-hielt-Lastwagen-Anhaenger-fuer-hohes-Schild-3253449.html)
   * [Tesla Fahrzeug hielt weiße Flanke eines Sattelzugs für einen taghellen Himmel](http://www.spiegel.de/auto/aktuell/tesla-toedlicher-unfall-mit-autopilot-in-den-usa-a-1100736.html)
   
-## 8. Künstliche Intelligenz aus Programmierersicht
+## 9. Künstliche Intelligenz aus Programmierersicht
 
-### 8.1 Am Beispiel des Machine Learnings
+### 9.1 Am Beispiel des Machine Learnings
 
 Bei klassischen Programmierverfahren ist die Implementierung des Modells bekannt. Das Modell hat die Aufgabe Eingaben direkt in eine Ausgabe umzuwandeln:
 
@@ -196,7 +200,7 @@ Da oft nicht bekannt ist, wie das Modell entstanden ist (und es meist auch gar n
 
 Die Methoden des Machine Learnings sind vor allem dort überaus nützlich, bei dem der Aufwand für die direkte Bestimmung des Modells unmöglich ist bzw. einen hohen Aufwand erfordert. **Beispiel:** Um ein Objekt auf einem Bild zu erkennen, wird man keinen Algorithmus direkt dafür bestimmen können, sondern auf die Methoden des Machine Learnings zurückgreifen. Entsprechende Trainingsdaten vorausgesetzt ist der Aufwand (die Kosten) für die technische Implementierung unter zuhilfenahme entsprechender technischen Ressourcen sehr viel geringer, als der Versuch das Modell direkt zu implementieren. 
   
-## 9. Werkzeuge
+## 10. Werkzeuge
 
 Eben entdeckt: [Liste ausgewählter Machine Learning Frameworks, Bibliotheken und Software, Englisch](https://github.com/josephmisiti/awesome-machine-learning)
 
