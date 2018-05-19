@@ -12,7 +12,7 @@ Daten! Die Grundvorraussetzung für künstliche Intelligenz sind Daten. Ohne Dat
 
 ### 1.1 Deduktiver Lernansatz
 
-Man lernt aufgrund einer Regel. Z.B.: Alle Fische leben im Wasser. Mit diesem Wissen geht man nun also aus, dass immer wenn man einen Fisch sieht davon ausgeht, dass dieser im Wasser lebt. Oder: Die Ermahnung eines Kindes. Dass alle Herplatten heiß sind und man diese nicht anfassen solle. Andere Beispiele betreffen die direkte Implementation von direkten Algorithmen. Z.B. die Implementation der Multiplikations-Regel:
+Man lernt aufgrund einer Regel. Z.B.: Alle Fische leben im Wasser. Mit diesem Wissen geht man nun also aus, dass immer wenn man einen Fisch sieht, dieser im Wasser lebt. Oder: Die Ermahnung eines Kindes. Dass alle Herplatten heiß sind und man diese nicht anfassen solle. Andere Beispiele betreffen die direkte Implementation von direkten Algorithmen. Z.B. die Implementation der Multiplikations-Regel:
 
 ```
 7x5 sind 35
