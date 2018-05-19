@@ -29,7 +29,7 @@ Der indiktive Lernansatz (und somit alle Ansätze der künstlichen Intelligenz) 
 23 * 3 => 69
 ```
 
-Das gelernte (trainierte) System kann nun auf die folgende Frage (5*7) antworten: 34,995. Es entspricht nicht dem gewöhnlich erwartetem Wert von 35, aber oftmals ist diese genaue Angabe des Wertes überhaupt nicht wichtig. Lediglich die Richtung des Wertes ist das was bei so einem Erwartungswert wirklich interessant ist.
+Das gelernte (trainierte) System kann nun versuchen auf die folgende Frage (5*7) antworten: 34,995. Dies ist ein Wert, welche durch die Fuzzy Algorithmen ermittelt wurde und welcher offensichtlich in die richtige Richtung geht. Es entspricht nicht dem gewöhnlich erwartetem Wert von 35, aber oftmals ist diese genaue Angabe des Wertes überhaupt nicht wichtig. Lediglich die Richtung des Wertes ist das was bei so einem Erwartungswert wirklich interessant ist.
 
 ## 2. Was ist nun also künstliche Intelligenz?
 
