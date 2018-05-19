@@ -18,7 +18,7 @@ Man lernt aufgrund einer Regel. Z.B.: Alle Fische leben im Wasser. Mit diesem Wi
 7x5 sind 35
 ```
 
-Ein Computer kann nun direkt alle Multiplikationen berechnen:
+Ein Computer kann nun direkt mit dieser einprogrammierten Regel alle Multiplikationen berechnen:
 
 ```
 2x3 sind 6
