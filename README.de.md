@@ -8,7 +8,15 @@ Weitere praktische Beispiele befinden sich im Kapitel: [A. Weiterführende Tutor
 
 ## 1. Vorraussetzung zur künstlichen Intelligenz
 
-TODO...
+Daten! Die Grundvorraussetzung für künstliche Intelligenz sind Daten. Ohne Daten ist dieses Thema nicht möglich. Es geht um den Lernprozess, den jedes Verfahren der künstlichen Intelligenz nutzt. Daten sind sozusagen das Baumaterial der künstlichen Intelligenz! Welche Lernverfahren gibt es?
+
+### 1.1 Deduktiver Lernansatz
+
+Todo..
+
+### 1.2 Induktiver Lernansatz
+
+Todo..
 
 ## 2. Was ist künstliche Intelligenz?
 
