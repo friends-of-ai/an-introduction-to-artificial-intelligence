@@ -20,12 +20,14 @@ Man lernt aufgrund einer Regel. Z.B.: Alle Fische leben im Wasser. Mit diesem Wi
 
 Der indiktive Lernansatz (und somit alle Ansätze der künstlichen Intelligenz) geht einen anderen Weg: Der Lernprozess durch Beobachtung der Umwelt. Man könnte z.B. alle Tiere dieser Erde und deren Lebensraum beobachten: Fische leben offenbar alle im Wasser. Oder: Das Kind fässt alle Herdplatten (schmerzlich) an und stellt fest, das diese alle heiß sind. Algorithmisch gesehen könnte ein System von verschiedenen Zahlenpaaren lernen:
 
+```
 1 * 1 => 1
 2 * 3 => 6
 10 * 3 => 30
 100 * 11 => 1100
 20 * 40 => 800
 23 * 3 => 69
+```
 
 Das gelernte (trainierte) System kann nun auf die folgende Frage (5*7) antworten: 34,995. Es entspricht nicht dem gewöhnlich erwartetem Wert von 35, aber oftmals ist diese genaue Angabe des Wertes überhaupt nicht wichtig. Lediglich die Richtung des Wertes ist das was bei so einem Erwartungswert wirklich interessant ist.
 
