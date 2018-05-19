@@ -20,7 +20,7 @@ Man lernt aufgrund einer Regel. Z.B.: Alle Fische leben im Wasser. Mit diesem Wi
 
 ### 1.2 Induktiver Lernansatz
 
-Der indiktive Lernansatz (und somit alle Ansätze der künstlichen Intelligenz) geht einen anderen Weg: Der Lernprozess durch Beobachtung der Umwelt. Man könnte z.B. alle Tiere dieser Erde und deren Lebensraum beobachten: Fische leben offenbar alle im Wasser. Oder: Das Kind fässt alle Herdplatten (schmerzlich) an und stellt fest, dass diese alle heiß sind. Algorithmisch gesehen könnte ein System von verschiedenen Zahlenpaaren lernen:
+Der indiktive Lernansatz (und somit alle Ansätze der künstlichen Intelligenz) geht einen anderen Weg: Der Lernprozess durch Beobachtung der Umwelt. Man könnte z.B. alle Tiere dieser Erde und deren Lebensraum beobachten: Fische leben offenbar alle im Wasser. Oder: Das Kind fässt alle Herdplatten (schmerzlich) an und stellt fest, dass diese fast alle heiß sind. Algorithmisch gesehen könnte ein System von verschiedenen Zahlenpaaren lernen:
 
 ```
 1 * 1 => 1
