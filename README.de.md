@@ -12,13 +12,15 @@ Daten! Die Grundvorraussetzung für künstliche Intelligenz sind Daten. Ohne Dat
 
 ### 1.1 Deduktiver Lernansatz
 
-Todo..
+Man lernt aufgrund einer Regel. Z.B.: Alle Fische leben im Wasser. Mit diesem Wissen geht man nun also aus, dass immer wenn man einen Fisch sieht davon ausgeht, dass dieser im Wasser lebt. Andere Beispiele betreffen die direkte Implementation von direkten Algorithmen. Z.B. die Implementation der Multiplikations-Regel:
+
+7x5 sind 35
 
 ### 1.2 Induktiver Lernansatz
 
 Todo..
 
-## 2. Was ist künstliche Intelligenz?
+## 2. Was ist nun also künstliche Intelligenz?
 
 Es gibt eine Menge von Seiten und Fachliteratur, welche das Thema allumfassend gut erklären und erläutern. Allen voran der Eintrag in der Wikipedia: [Künstliche Intelligenz](https://de.wikipedia.org/wiki/K%C3%BCnstliche_Intelligenz). Weitere Querverweise befinden sich in den Quellenangaben bzw. auch an den entsprechenden Stellen in diesem Dokument.
 
