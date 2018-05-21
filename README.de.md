@@ -33,7 +33,7 @@ Der indiktive Lernansatz (und somit alle Ansätze der künstlichen Intelligenz) 
 ```
 1 * 1 => 1
 2 * 3 => 6
-10 * 3 => 30
+11 * 3 => 33
 100 * 11 => 1100
 20 * 40 => 800
 23 * 3 => 69
